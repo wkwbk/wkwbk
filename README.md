@@ -1,3 +1,4 @@
+<!-- 动态打字效果 -->
 <h1 align="center">
     <a href="https://lisir.me/">
         <img
@@ -5,40 +6,55 @@
     </a>
 </h1>
 
+<!-- 敲代码的图片 -->
+<div align="center"><img order-radius="100px"
+        src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" /></div>
+<br>
+
+<!-- 个人资料徽标 -->
+<div align="center">
+    <a href="https://lisir.me/"><img
+            src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+    <a href="https://www.facebook.com/"><img
+            src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
+    <a href="https://www.youtube.com/channel/"><img
+            src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
+    <a href="https://blog.csdn.net/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+    <a href="https://space.bilibili.com/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+    <a href="https://www.zhihu.com/people/"><img
+            src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+    <!-- 访客数统计徽标 -->
+    <img src="https://visitor-badge.glitch.me/badge?page_id=wkwbk" /></div>
+
+<!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/wkwbk/wkwbk/assets/github-contribution-grid-snake.svg" />
 </div>
 
-### Hi there 👋
+# 🚀 Action
 
-<div align="center">
-    <img src="https://metrics.lecoq.io/wkwbk?template=classic&config.timezone=Asia%2FShanghai">
-</div>
-<div align="center">
-    <img height="137px"
-        src="https://github-readme-stats.vercel.app/api?username=wkwbk&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</div>
-<div align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkwbk&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+<!-- 连续提交代码天数记录 -->
+<p align="center">
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+    <img align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true" />
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</p>
 
-![li Most used
-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wkwbk&layout=compact&hide_border=true&langs_count=10)
-
+<!-- GitHub奖杯🏆 -->
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=wkwbk" />
 </div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=wkwbk)
-
+<!-- GitHub数据统计 -->
 <div align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=wkwbk" />
+    <img height="137px"
+        src="https://github-readme-stats.vercel.app/api?username=wkwbk&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="137px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkwbk&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
+<!-- GitHub Activity Graph -->
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=wkwbk&theme=xcode" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk" />
 </div>
