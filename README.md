@@ -6,8 +6,8 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center"><img order-radius="100px"
-        src="https://unpkg.zhimg.com/lisir.me-imgs@1.0.9/003.gif" /></div>
+<div align="center">
+    <img order-radius="100px" src="https://unpkg.zhimg.com/lisir.me-imgs@1.0.9/003.gif" /></div>
 <br>
 
 <!-- 个人资料徽标 -->
@@ -19,22 +19,22 @@
     <a href="https://blog.csdn.net/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
     <a href="https://space.bilibili.com/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
     <a href="https://www.zhihu.com/people/lisir.me"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-<!-- 访客数统计徽标 -->
+    <!-- 访客数统计徽标 -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=wkwbk" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/wkwbk/wkwbk/assets/github-contribution-grid-snake.svg" />
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/wkwbk/wkwbk/assets/github-contribution-grid-snake.svg" />
 </div>
 
 # 🚀 Action
 
 <!-- 连续提交代码天数记录 -->
-<p align="center">
+<div align="center">
     <img width="150" src="https://unpkg.zhimg.com/lisir.me-imgs@1.0.9/002.png" />
-    <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true" />
     <img width="150" src="https://unpkg.zhimg.com/lisir.me-imgs@1.0.9/001.png" />
-</p>
+</div>
 
 <!-- GitHub Activity Graph -->
 <div align="center">
