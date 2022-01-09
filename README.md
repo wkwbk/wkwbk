@@ -30,11 +30,11 @@
 # 🚀 Action
 
 <!-- 连续提交代码天数记录 -->
-<div align="center">
+<p align="center">
     <img width="150" src="https://unpkg.zhimg.com/lisir.me-imgs@1.0.9/002.png" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true" />
     <img width="150" src="https://unpkg.zhimg.com/lisir.me-imgs@1.0.9/001.png" />
-</div>
+</p>
 
 <!-- GitHub Activity Graph -->
 <div align="center">
