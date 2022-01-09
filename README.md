@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
     <a href="https://lisir.me/">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+ordinary+yet+unique.;%E4%BB%8A%E6%97%A5%E4%BA%8B%EF%BC%8C%E4%BB%8A%E6%97%A5%E6%AF%95;任何不能摧毁你的东西;都将使你更加强大;你需要掌控自己的生活;而不是被生活掌控&center=true&size=27">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+ordinary+yet+unique.;今日事，今日毕;任何不能摧毁你的东西;都将使你更加强大;你需要掌控自己的生活;而不是被生活掌控&center=true&size=27">
     </a>
 </h1>
 
