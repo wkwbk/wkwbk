@@ -8,7 +8,7 @@
 
 <!-- 敲代码的图片 -->
 <div align="center"><img order-radius="100px"
-        src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" /></div>
+        src="https://unpkg.zhimg.com/lisir.me-imgs@1.0.9/003.gif" /></div>
 <br>
 
 <!-- 个人资料徽标 -->
@@ -35,10 +35,10 @@
 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+    <img width="150" src="https://unpkg.zhimg.com/lisir.me-imgs@1.0.9/001.png" />
     <img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true" />
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+    <img width="150" src="https://unpkg.zhimg.com/lisir.me-imgs@1.0.9/002.png" />
 </p>
 
 <!-- GitHub Activity Graph -->
