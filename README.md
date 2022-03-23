@@ -1,4 +1,3 @@
-<!doctype html>
 <!-- 动态打字效果 -->
 <h1 align="center">
     <a href="https://lisir.me/">
