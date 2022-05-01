@@ -1,8 +1,8 @@
-<div align="center"><!-- 动态打字效果 -->
+<h1 align="center"><!-- 动态打字效果 -->
     <a href="https://lisir.me/">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+ordinary+yet+unique.;今日事，今日毕;任何不能摧毁你的东西;都将使你更加强大;你需要掌控自己的生活;而不是被生活掌控&center=true&size=27">
     </a>
-</div>
+</h1>
 
 <div align="center"><!-- 敲代码的图片 -->
     <img order-radius="100px" src="https://npm.elemecdn.com/lisir.me-imgs@1.0.9/003.gif">
@@ -25,11 +25,11 @@
 
 # 🚀 Action
 
-<div align="center"><!-- 连续提交代码天数记录 -->
+<p align="center"><!-- 连续提交代码天数记录 -->
     <img width="150" src="https://npm.elemecdn.com/lisir.me-imgs@1.0.9/002.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
     <img width="150" src="https://npm.elemecdn.com/lisir.me-imgs@1.0.9/001.png">
-</div>
+</p>
 
 <div align="center"><!-- GitHub Activity Graph -->
     <img src="https://activity-graph.herokuapp.com/graph?username=wkwbk&theme=xcode">
