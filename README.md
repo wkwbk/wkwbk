@@ -14,6 +14,7 @@
     <a href="https://lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/website-%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5-blue"></a>&emsp;
     <a href="https://blog.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/Blog-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-red"></a>&emsp;
     <a href="https://cloud.wkwbk.cn/" title="点击跳转"><img src="https://img.shields.io/badge/Cloud%20Disk-%E6%88%91%E7%9A%84%E4%BA%91%E7%9B%98-green"></a>&emsp;
+    <a href="https://photo.wkwbk.cn/" title="点击跳转"><img src="https://img.shields.io/badge/Photo-%E6%97%B6%E5%85%89%E7%9B%B8%E5%86%8C-purple"></a>&emsp;
 </div>
 
 <div align="center"><!-- 贪吃蛇代码贡献图 -->
