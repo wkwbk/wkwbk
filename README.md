@@ -12,7 +12,7 @@
 
 <div align="center"><!-- 个人资料徽标 -->
     <a href="https://lisir.me/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-    <a href="https://blog.lisir.me/"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+    <a href="https://blog.lisir.me/"><img src="https://img.shields.io/badge/Blog-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
 </div>
 
 <div align="center"><!-- 贪吃蛇代码贡献图 -->
