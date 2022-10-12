@@ -8,7 +8,7 @@
     <img order-radius="100px" src="https://npm.elemecdn.com/lisir.me-imgs@1.0.9/003.gif">
 </div>
 
-<br>
+<p>
 
 <div align="center"><!-- 个人资料徽标 -->
     <a href="https://lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/Website-%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5-blue"></a>&emsp;
