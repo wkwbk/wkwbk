@@ -85,3 +85,29 @@ wsl --export <DistributionName> <镜像存放路径>
 
 # 将 <DistributionName> 替换为要使用的 Linux 发行版的名称。
 ```
+
+## 由于是最小安装，一些常用的命令没有，无法使用，可以使用yum命令进行安装，以方便使用
+
+```bash
+yum -y update #更新系统中已有的软件包
+yum -y install gcc gcc-c++ make wget #安装gcc、gcc+、wget等
+yum -y install openssh-clients openssh-server #安装ssh相关
+yum -y install vim #安装vim编辑器
+yum -y install tar #安装压缩解压缩工具
+yum -y install net-tools #安装网络工具
+yum -y install ncurses #字符终端处理库
+```
+
+## 解决 Centos8 yum 官方源下线后无法使用问题
+
+```bash
+# 进入配置文件夹
+mv /etc/yum.repos.d/ /etc/yum.repos.d_bak && mkdir /etc/yum.repos.d/
+wget -O /etc/yum.repos.d/CentOS-Base.repo https://mirrors.aliyun.com/repo/Centos-vault-8.5.2111.repo
+
+# 如果你没有安装wget，也可以用下面命令
+curl -o /etc/yum.repos.d/CentOS-Base.repo https://mirrors.aliyun.com/repo/Centos-vault-8.5.2111.repo
+
+# 运行 dnf makecache 生成缓存
+dnf makecache
+````
