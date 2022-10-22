@@ -12,6 +12,9 @@ apt-get update && apt-get install -y wget vim
 
 ```bash
 wget -qO- get.docker.com | bash
+# or
+curl -sSL get.docker.com | sh
+
 ```
 
 ### 查看 Docker 版本
