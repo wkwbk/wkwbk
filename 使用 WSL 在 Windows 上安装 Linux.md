@@ -11,7 +11,7 @@
 
 ## WSL 的基本命令
 
-```PowerShell
+```bash
 # 安装 WSL 命令
 wsl --install
 
@@ -30,7 +30,7 @@ wsl --shutdown
 
 ## 设置WSL的默认版本
 
-```PowerShell
+```bash
 wsl --set-default-version <Version>
 # 若要将默认版本设置为 WSL 1 或 WSL 2，将 <Version> 替换为 1 或 2。
 # 例如 wsl --set-default-version 2
@@ -38,7 +38,7 @@ wsl --set-default-version <Version>
 
 ## 设置默认 Linux 发行版
 
-```PowerShell
+```bash
 wsl --set-default <DistributionName>
 # 将 <DistributionName> 替换为要使用的 Linux 发行版的名称。
 # 例如 wsl --set-default CentOS8
@@ -46,14 +46,14 @@ wsl --set-default <DistributionName>
 
 ## 要设置与 wsl 命令一起使用的默认 Linux 发行版
 
-```PowerShell
+```bash
 wsl --setdefault <DistributionName>
 # 将 <DistributionName> 替换为要使用的 Linux 发行版的名称。
 ```
 
 ## 将 WSL 版本设置为 1 或 2
 
-```PowerShell
+```bash
 wsl --set-version <DistributionName> <Version>
 # 若要指定运行 Linux 发行版的 WSL 版本
 # 将 <DistributionName> 替换为 Linux 发行版的名称，并将 <Version> 替换为 1 或 2。
@@ -62,7 +62,7 @@ wsl --set-version <DistributionName> <Version>
 
 ## 更改发行版的默认用户
 
-```PowerShell
+```bash
 <DistributionName> config --default-user <Username>
 # 更改用于发行版登录的默认用户。 用户必须已经存在于发行版中才能成为默认用户。
 # 例如 CentOS8 config --default-user root 会将 CentOS8 发行版的默认用户更改为“root”用户。
@@ -70,7 +70,7 @@ wsl --set-version <DistributionName> <Version>
 
 ## 其他命令
 
-```PowerShell
+```bash
 # 关闭子系统
 net stop LxssManager
 
