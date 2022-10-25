@@ -1,5 +1,9 @@
 # 使用 WSL 在 Windows 上安装 Linux
 
+<https://github.com/wsldl-pg/CentWSL>  
+<https://github.com/mishamosher/CentOS-WSL>  
+<https://github.com/yosukes-dev/RHWSL>
+
 ## 先决条件
 
 - 必须运行 Windows 10 版本 2004 及更高版本（内部版本 19041 及更高版本）或 Windows 11
