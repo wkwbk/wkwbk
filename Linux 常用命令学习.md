@@ -108,3 +108,10 @@ cp -ai a.txt test
 # 为 a.txt 建立一个链接（快捷方式）
 cp -s a.txt link_a.txt
 ```
+
+## 其他
+
+```bash
+echo $LANG #查看当前使用的系统语言
+locale #查看已安装的语言包
+```
