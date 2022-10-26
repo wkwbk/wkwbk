@@ -13,3 +13,9 @@
     <a href="https://photo.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/Photo-%E6%97%B6%E5%85%89%E7%9B%B8%E5%86%8C-purple"></a>&emsp;
     <a href="https://nz.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/%E5%93%AA%E5%90%92-%E7%9B%91%E6%8E%A7%E9%9D%A2%E6%9D%BF-blueviolet"></a>
 </div>
+
+<p>
+
+<p>
+免责声明：本站为个人博客，博客所发布的一切破解补丁、注册机和注册信息及软件的文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关，您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。访问和下载本站内容，说明您已同意上述条款。
+</p>

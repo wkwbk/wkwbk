@@ -114,4 +114,5 @@ cp -s a.txt link_a.txt
 ```bash
 echo $LANG #查看当前使用的系统语言
 locale #查看已安装的语言包
+adduser <用户名> #新建用户
 ```
