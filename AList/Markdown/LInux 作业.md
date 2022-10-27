@@ -34,19 +34,26 @@ grep y$ data
 grep ^m.*d$ data
 
 # 以 e、g 或 l 开头。
+grep ^[egl] data
 
 # 包含 o，它后面跟着 u。
+grep ou data
 
 # 包含 o，隔一个字母之后是 u。
+grep o.u data
 
 # 以小写字母开头。
+grep ^[a-z] data
 
 # 包含一个数字。
+grep [0-9] data
 
 # 以 s 开头，包含一个 n。
+grep ^s.*n data
 
 # 只包含 4 个字母。
+grep -P ^[a-zA-Z]{4}$ data
 
 # 只包含 4 个字母，但不包含 f。
-
+grep -P ^[a-eg-zA-Z]{4}$ data
 ```
