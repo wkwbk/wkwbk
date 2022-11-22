@@ -32,7 +32,7 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple
 trusted-host = https://pypi.tuna.tsinghua.edu.cn
 ```
 
-查看 镜像地址：
+查看镜像地址：
 
 ```bash
 $ pip3 config list   
@@ -44,7 +44,7 @@ install.trusted-host='https://pypi.tuna.tsinghua.edu.cn'
 
 ## Windows 配置方法
 
-Windows下，你需要在当前对用户目录下（C:\Users\xx\pip，xx 表示当前使用对用户，比如张三）创建一个 pip.ini在pip.ini文件中输入以下内容：
+Windows下，你需要在当前对用户目录下（C:\Users\xx\pip，xx 表示当前使用对用户，比如张三）创建一个 pip.ini 在 pip.ini 文件中输入以下内容：
 
 ```bash
 [global]
