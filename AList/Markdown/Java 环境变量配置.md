@@ -8,7 +8,7 @@
 
 ```bash
 变量名：JAVA_HOM
-变量值：C:\Programs\Java\jdk1.8.0_341 #变量值为 JDK 安装路径
+变量值：C:\Programs\Java\jdk1.8.0_341 #变量值为 JDK 安装路径，根据自己安装路径更改
 ```
 
 系统变量->打开 Path 变量->新建
