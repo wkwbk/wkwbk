@@ -23,5 +23,5 @@
 
 ```bash
 变量名：CLASSPATH
-变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;
+变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar; #不要漏了开头那一点
 ```
