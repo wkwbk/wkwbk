@@ -4,20 +4,24 @@
 
 npm 是 nodejs 的包管理工具，我们后续需要通过 npm 安装 asar，因此需要先安装 npm。
 
-如果你的电脑之前已经安装了 nodejs 最新版，那么 nodejs 也就为你自动安装了 npm，node 的下载地址：<https://nodejs.org>
+如果你的电脑之前已经安装了 nodejs 最新版，那么 nodejs 也就为你自动安装了 npm。
+
+node 的下载地址：<https://nodejs.org>
 
 ## 确定已正确安装 NPM
 
-可以通过"npm -v"指令是否可以返回版本号来确定是否已经正确安装了 npm
+可以通过 "npm -v" 指令是否可以返回版本号来确定是否已经正确安装了 npm
 
 ## 全局环境安装 ASAR
 
 ```bash
 #安装命令
 npm install -g asar
+
 #或者
 cnpm install -g asar
-#确定已经正确安装 ASAR
+
+#返回版本号来确定已经正确安装 ASAR
 asar -V
 ```
 
