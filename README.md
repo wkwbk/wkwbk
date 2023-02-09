@@ -29,7 +29,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
     <img width="150" src="https://npm.elemecdn.com/lisir.me-imgs@1.0.9/001.png">
 </p>
-
-<div align="center"><!-- GitHub Activity Graph -->
-    <img src="https://activity-graph.herokuapp.com/graph?username=wkwbk&theme=xcode">
-</div>
