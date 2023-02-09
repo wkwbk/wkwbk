@@ -2,7 +2,7 @@
 	"request": [
 		{
 			"enable": true,
-			"name": "重定向请求",
+			"name": "cnbing >> bing",
 			"ruleType": "redirect",
 			"matchType": "regexp",
 			"pattern": "^http(s?)://cn.bing.com/(.*)",
@@ -16,7 +16,7 @@
 	"sendHeader": [
 		{
 			"enable": true,
-			"name": "修改请求头",
+			"name": "避免 bing 重新定向到 cnbing",
 			"ruleType": "modifySendHeader",
 			"matchType": "regexp",
 			"pattern": "^http(s?)://www\\.bing\\.com/(.*)",
