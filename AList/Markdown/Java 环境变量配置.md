@@ -6,14 +6,14 @@
 
 系统变量->新建
 
-```bash
-变量名：JAVA_HOM
+```text
+变量名：JAVA_HOME
 变量值：C:\Programs\Java\jdk1.8.0_341 #变量值为 JDK 安装路径，根据自己安装路径更改
 ```
 
 系统变量->打开 Path 变量->新建
 
-```bash
+```text
 #添加以下两个变量值
 %JAVA_HOME%\bin
 %JAVA_HOME%\jre\bin
@@ -21,7 +21,7 @@
 
 系统变量->新建
 
-```bash
+```text
 变量名：CLASSPATH
 变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar; #不要漏了开头那一点
 ```
