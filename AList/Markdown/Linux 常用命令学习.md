@@ -109,6 +109,12 @@ cp -ai a.txt test
 cp -s a.txt link_a.txt
 ```
 
+## 改变主机名
+
+```bash
+hostnamectl set-hostname <主机名>
+```
+
 ## 其他
 
 ```bash
