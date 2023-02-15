@@ -44,10 +44,10 @@ export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
 export PATH=${JAVA_HOME}/bin:$PATH
 ```
 
-3. 重启
+3. 刷新环境变量
 
 ```bash
-reboot
+source /etc/profile
 ```
 
 ## 测试 JDK 是否配置成功
