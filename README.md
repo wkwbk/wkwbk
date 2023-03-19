@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center"><!-- 敲代码的图片 -->
-    <img order-radius="100px" src="https://npm.elemecdn.com/lisir.me-imgs@1.0.9/003.gif">
+    <img order-radius="100px" src="https://jsd.cdn.zzko.cn/gh/wkwbk/image-hosting@main/PicGo/wkwbk/001.gif">
 </div>
 
 <p>
@@ -19,13 +19,13 @@
 </div>
 
 <div align="center"><!-- 贪吃蛇代码贡献图 -->
-    <img src="https://cdn.jsdelivr.net/gh/wkwbk/wkwbk/assets/github-contribution-grid-snake.svg">
+    <img src="https://jsd.cdn.zzko.cn/gh/wkwbk/wkwbk/assets/github-contribution-grid-snake.svg">
 </div>
 
 # 🚀 Action
 
 <p align="center"><!-- 连续提交代码天数记录 -->
-    <img width="150" src="https://npm.elemecdn.com/lisir.me-imgs@1.0.9/002.png">
+    <img width="150" src="https://jsd.cdn.zzko.cn/gh/wkwbk/image-hosting@main/PicGo/wkwbk/002.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
-    <img width="150" src="https://npm.elemecdn.com/lisir.me-imgs@1.0.9/001.png">
+    <img width="150" src="https://jsd.cdn.zzko.cn/gh/wkwbk/image-hosting@main/PicGo/wkwbk/001.png">
 </p>
