@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center"><!-- 敲代码的图片 -->
-    <img order-radius="100px" src="https://jsd.cdn.zzko.cn/gh/wkwbk/image-hosting@main/PicGo/wkwbk/001.gif">
+    <img order-radius="100px" src="https://img.wkwbk.eu.org/i/wkwbk/001.gif">
 </div>
 
 <p>
@@ -25,7 +25,7 @@
 # 🚀 Action
 
 <p align="center"><!-- 连续提交代码天数记录 -->
-    <img width="150" src="https://jsd.cdn.zzko.cn/gh/wkwbk/image-hosting@main/PicGo/wkwbk/002.png">
+    <img width="150" src="https://img.wkwbk.eu.org/i/wkwbk/002.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
-    <img width="150" src="https://jsd.cdn.zzko.cn/gh/wkwbk/image-hosting@main/PicGo/wkwbk/001.png">
+    <img width="150" src="https://img.wkwbk.eu.org/i/wkwbk/001.png">
 </p>
