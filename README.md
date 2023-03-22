@@ -19,7 +19,7 @@
 </div>
 
 <div align="center"><!-- 贪吃蛇代码贡献图 -->
-    <img src="https://jsd.cdn.zzko.cn/gh/wkwbk/wkwbk/assets/github-contribution-grid-snake.svg">
+    <img src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/github-contribution-grid-snake.svg">
 </div>
 
 # 🚀 Action
