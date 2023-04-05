@@ -28,7 +28,18 @@
 
 # 🙋 Hello
 
-## 🚀 Action
+<table>
+<tr><td>
+
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</td></tr>
+
+# 🚀 Action
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
