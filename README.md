@@ -26,20 +26,9 @@
 
 </div>
 
-# 🙋 Hello
+## 🙋 Hello
 
-<table>
-<tr><td>
-
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</td></tr>
-
-# 🚀 Action
+## 🚀 Action
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -47,3 +36,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
   <img width="150" src="https://img.wkwbk.eu.org/i/wkwbk/001.png">
 </div>
+
+<!-- wakatime 统计 -->
+## 📊 WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
