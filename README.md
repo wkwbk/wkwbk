@@ -28,13 +28,15 @@
 
 </div>
 
-## 🙋 Hello
+<img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif">
+
+# 🙋 Hello
 
 <div align="center">
 <table>
 <tr><td colspan="2">
 
-### 🚀 Action
+## 🚀 Action
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -48,7 +50,7 @@
 <tr><td>
 
 <!-- 近期博客 -->
-### 📃 Recent Blog
+## 📃 Recent Blog
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.lisir.me/posts/3d3a7fb3/' target='_blank'>软考中级软件设计师笔记</a> - 2023-03-23
@@ -63,7 +65,7 @@
 <td>
 
 <!-- 豆瓣 -->
-### 🤾 Funny Soul
+## 🤾 Funny Soul
 
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/35390640/' target='_blank'>看过雪劫</a> 🌟🌟🌟🌟🌟 力荐- 2022-12-12
@@ -78,7 +80,7 @@
 <tr><td colspan="2">
 
 <!-- wakatime 统计 -->
-### 📊 WakaTime
+## 📊 WakaTime
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤**
@@ -127,4 +129,4 @@ Windows                  40 mins             ███░░░░░░░░�
 </table>
 </div>
 
-<img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif" />
+<img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif">
