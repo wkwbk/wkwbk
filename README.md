@@ -59,6 +59,7 @@
 <!-- END_SECTION:blog -->
 
 </td>
+
 <td>
 
 <!-- 豆瓣 -->
@@ -75,7 +76,7 @@
 </td>
 </tr>
 
-</td>
+<tr>
 <td colspan="2">
 
 <!-- wakatime 统计 -->
@@ -125,6 +126,7 @@ Windows                  40 mins             ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif" />
+
 </td>
 </tr>
 </table>
