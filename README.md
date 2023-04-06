@@ -28,9 +28,9 @@
 
 ## 🙋 Hello
 
-<table width="960px">
+<table>
 <tr>
-<td colspan="2" valign="top" width="100%">
+<td colspan="2">
 
 ### 🚀 Action
 
@@ -45,7 +45,7 @@
 </tr>
 
 <tr>
-<td valign="top" width="50%">
+<td>
 
 <!-- 近期博客 -->
 ### 📃 Recent Blog
@@ -59,7 +59,7 @@
 <!-- END_SECTION:blog -->
 
 </td>
-<td valign="top" width="50%">
+<td>
 
 <!-- 豆瓣 -->
 ### 🤾 Funny Soul
@@ -76,7 +76,7 @@
 </tr>
 
 </td>
-<td colspan="2" valign="top" width="50%">
+<td colspan="2">
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
