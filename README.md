@@ -26,7 +26,7 @@
 
 </div>
 
-## 🙋 Hello
+# 🙋 Hello
 
 ## 🚀 Action
 
@@ -41,13 +41,4 @@
 ## 📊 WakaTime
 
 <!--START_SECTION:waka-->
-
-```text
-From: 04 April 2023 - To: 05 April 2023
-
-Total Time: 5 hrs 45 mins
-
-Other      5 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.41 %
-```
-
 <!--END_SECTION:waka-->
