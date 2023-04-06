@@ -1,3 +1,5 @@
+# Hi there 👋
+
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -28,6 +30,7 @@
 
 ## 🙋 Hello
 
+<div align="center">
 <table>
 <tr><td colspan="2">
 
@@ -122,5 +125,6 @@ Windows                  40 mins             ███░░░░░░░░�
 
 </td></tr>
 </table>
+</div>
 
 <img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif" />
