@@ -83,3 +83,5 @@ Windows                  40 mins             ███░░░░░░░░�
 
  Last Updated on 06/04/2023 02:51:41 UTC
 <!--END_SECTION:waka-->
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
