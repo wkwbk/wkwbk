@@ -64,7 +64,8 @@
 <!-- END_SECTION:douban -->
 
 </td>
-<td valign="top" width="50%">
+</tr>
+</table>
 
 <!-- wakatime 统计 -->
 ## 📊 WakaTime
