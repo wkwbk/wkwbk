@@ -44,16 +44,6 @@
 
 <!-- END_SECTION:blog -->
 
-## 🤾 Funny Soul
-
-<!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35390640/' target='_blank'>看过雪劫</a> 🌟🌟🌟🌟🌟 力荐- 2022-12-12
-* <a href='http://movie.douban.com/subject/27194292/' target='_blank'>想看怪奇物语 第四季</a> - 2022-10-11
-* <a href='http://movie.douban.com/subject/27119156/' target='_blank'>想看怪奇物语 第三季</a> - 2022-10-11
-* <a href='http://movie.douban.com/subject/26844438/' target='_blank'>想看怪奇物语 第二季</a> - 2022-10-11
-* <a href='http://movie.douban.com/subject/26359270/' target='_blank'>想看怪奇物语 第一季</a> - 2022-10-11
-<!-- END_SECTION:douban -->
-
 <!-- wakatime 统计 -->
 ## 📊 WakaTime
 
@@ -100,5 +90,15 @@ Windows                  40 mins             ███░░░░░░░░�
 
  Last Updated on 06/04/2023 02:51:41 UTC
 <!--END_SECTION:waka-->
+
+## 🤾 Funny Soul
+
+<!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35390640/' target='_blank'>看过雪劫</a> 🌟🌟🌟🌟🌟 力荐- 2022-12-12
+* <a href='http://movie.douban.com/subject/27194292/' target='_blank'>想看怪奇物语 第四季</a> - 2022-10-11
+* <a href='http://movie.douban.com/subject/27119156/' target='_blank'>想看怪奇物语 第三季</a> - 2022-10-11
+* <a href='http://movie.douban.com/subject/26844438/' target='_blank'>想看怪奇物语 第二季</a> - 2022-10-11
+* <a href='http://movie.douban.com/subject/26359270/' target='_blank'>想看怪奇物语 第一季</a> - 2022-10-11
+<!-- END_SECTION:douban -->
 
 <img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif" />
