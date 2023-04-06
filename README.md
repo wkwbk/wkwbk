@@ -29,8 +29,7 @@
 ## 🙋 Hello
 
 <table>
-<tr>
-<td colspan="2">
+<tr><td colspan="2">
 
 ### 🚀 Action
 
@@ -41,11 +40,9 @@
   <img width="150" src="https://img.wkwbk.eu.org/i/wkwbk/001.png">
 </div>
 
-</td>
-</tr>
+</td></tr>
 
-<tr>
-<td>
+<tr><td>
 
 <!-- 近期博客 -->
 ### 📃 Recent Blog
@@ -73,11 +70,9 @@
 * <a href='http://movie.douban.com/subject/26359270/' target='_blank'>想看怪奇物语 第一季</a> - 2022-10-11
 <!-- END_SECTION:douban -->
 
-</td>
-</tr>
+</td></tr>
 
-<tr>
-<td colspan="2">
+<tr><td colspan="2">
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
@@ -125,8 +120,7 @@ Windows                  40 mins             ███░░░░░░░░�
  Last Updated on 06/04/2023 02:51:41 UTC
 <!--END_SECTION:waka-->
 
-<img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif" />
-
-</td>
-</tr>
+</td></tr>
 </table>
+
+<img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif" />
