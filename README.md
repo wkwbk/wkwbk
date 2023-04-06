@@ -37,6 +37,17 @@
   <img width="150" src="https://img.wkwbk.eu.org/i/wkwbk/001.png">
 </div>
 
+<!-- 近期博客 -->
+## 📃 Recent Blog
+
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+
+## 🤾 Funny Soul
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+
 <!-- wakatime 统计 -->
 ## 📊 WakaTime
 
