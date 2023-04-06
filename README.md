@@ -26,9 +26,13 @@
 
 </div>
 
-# 🙋 Hello
+## 🙋 Hello
 
-## 🚀 Action
+<table width="960px">
+<tr>
+<td colspan="2" valign="top" width="100%">
+
+### 🚀 Action
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -37,13 +41,14 @@
   <img width="150" src="https://img.wkwbk.eu.org/i/wkwbk/001.png">
 </div>
 
-<table width="960px">
+</td>
+</tr>
 
 <tr>
 <td valign="top" width="50%">
 
 <!-- 近期博客 -->
-## 📃 Recent Blog
+### 📃 Recent Blog
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.lisir.me/posts/3d3a7fb3/' target='_blank'>软考中级软件设计师笔记</a> - 2023-03-23
@@ -53,7 +58,11 @@
 * <a href='https://blog.lisir.me/posts/372c544f/' target='_blank'>Debian 安装 JDK</a> - 2023-02-19
 <!-- END_SECTION:blog -->
 
-## 🤾 Funny Soul
+</td>
+<td valign="top" width="50%">
+
+<!-- 豆瓣 -->
+### 🤾 Funny Soul
 
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/35390640/' target='_blank'>看过雪劫</a> 🌟🌟🌟🌟🌟 力荐- 2022-12-12
@@ -65,13 +74,15 @@
 
 </td>
 </tr>
-</table>
+
+</td>
+<td colspan="2" valign="top" width="50%">
 
 <!-- wakatime 统计 -->
-## 📊 WakaTime
+### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                862 commits         █████████████████░░░░░░░░   66.98 % 
@@ -79,7 +90,8 @@
 🌃 Evening                192 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 🌙 Night                  35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
@@ -91,8 +103,7 @@ Saturday                 179 commits         ███░░░░░░░░�
 Sunday                   235 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -110,8 +121,10 @@ Linux                    5 hrs 5 mins        ███████████�
 Windows                  40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 ```
 
-
  Last Updated on 06/04/2023 02:51:41 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif" />
+</td>
+</tr>
+</table>
