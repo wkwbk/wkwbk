@@ -40,14 +40,14 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://img.wkwbk.eu.org/i/wkwbk/002.png">
+  <img width="145" src="https://img.wkwbk.eu.org/i/wkwbk/002.png">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
-  <img width="150" src="https://img.wkwbk.eu.org/i/wkwbk/001.png">
+  <img width="145" src="https://img.wkwbk.eu.org/i/wkwbk/001.png">
 </div>
 
 </td></tr>
 
-<tr><td>
+<tr><td width="50%">
 
 <!-- 近期博客 -->
 ## 📃 Recent Blog
@@ -62,7 +62,7 @@
 
 </td>
 
-<td>
+<td width="50%">
 
 <!-- 豆瓣 -->
 ## 🤾 Funny Soul
