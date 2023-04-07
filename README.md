@@ -50,7 +50,7 @@
 <tr><td>
 
 <!-- 近期博客 -->
-## 📃 Recent Blog
+## 📃 [Recent Blog](https://blog.lisir.me)
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.lisir.me/posts/3d3a7fb3/' target='_blank'>软考中级软件设计师笔记</a> - 2023-03-23
@@ -65,7 +65,7 @@
 <td>
 
 <!-- 豆瓣 -->
-## 🤾 Funny Soul
+## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35681856/' target='_blank'>想读Python3网络爬虫开发实战 第2版</a> - 2023-04-06
@@ -80,7 +80,7 @@
 <tr><td colspan="2">
 
 <!-- wakatime 统计 -->
-## 📊 WakaTime
+## 📊 [WakaTime](https://wakatime.com/@wkwbk)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
