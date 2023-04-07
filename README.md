@@ -47,7 +47,7 @@
 
 </td></tr>
 
-<tr><td width="50%">
+<tr><td>
 
 <!-- 近期博客 -->
 ## 📃 Recent Blog
@@ -62,7 +62,7 @@
 
 </td>
 
-<td width="50%">
+<td>
 
 <!-- 豆瓣 -->
 ## 🤾 Funny Soul
