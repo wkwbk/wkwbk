@@ -53,11 +53,11 @@
 ## 📃 [Recent Blog](https://blog.lisir.me)
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.lisir.me/posts/3d3a7fb3/' target='_blank'>软考中级软件设计师笔记</a> - 2023-03-23
-* <a href='https://blog.lisir.me/posts/9c43781b/' target='_blank'>虚拟机中搭建 Hadoop 集群</a> - 2023-02-25
-* <a href='https://blog.lisir.me/posts/d7a91b5f/' target='_blank'>各 Linux 发行版修改镜像源</a> - 2023-02-20
-* <a href='https://blog.lisir.me/posts/c9e20737/' target='_blank'>Linux 学习笔记</a> - 2023-02-20
-* <a href='https://blog.lisir.me/posts/372c544f/' target='_blank'>Debian 安装 JDK</a> - 2023-02-19
+* <a href='https://blog.lisir.me/posts/bd700ef5/' target='_blank'>软件设计师——面向对象</a> - 2023-04-10
+* <a href='https://blog.lisir.me/posts/a1f6b007/' target='_blank'>软件设计师——数据库</a> - 2023-04-05
+* <a href='https://blog.lisir.me/posts/d47f972e/' target='_blank'>软件设计师——知识产权</a> - 2023-04-02
+* <a href='https://blog.lisir.me/posts/a58493dd/' target='_blank'>软件设计师——数据流图</a> - 2023-03-30
+* <a href='https://blog.lisir.me/posts/2103f0c6/' target='_blank'>软件设计师——程序设计语言</a> - 2023-03-27
 <!-- END_SECTION:blog -->
 
 </td>
