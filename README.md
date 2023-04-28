@@ -34,7 +34,7 @@
 
 <div align="center">
 <table>
-<tr><td colspan="2">
+<tr><td>
 
 ## 🚀 Action
 
@@ -77,7 +77,7 @@
 
 </td></tr>
 
-<tr><td colspan="2">
+<tr><td>
 
 <!-- wakatime 统计 -->
 ## 📊 [WakaTime](https://wakatime.com/@wkwbk)
