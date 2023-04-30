@@ -53,11 +53,11 @@
 ## 📃 [Recent Blog](https://blog.lisir.me)
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.lisir.me/posts/3459c33c/' target='_blank'>Java | 异常处理（待更新）</a> - 2023-04-28
-* <a href='https://blog.lisir.me/posts/f9e936dc/' target='_blank'>Java | 面向对象 | 类的五大成员</a> - 2023-04-26
+* <a href='https://blog.lisir.me/posts/9f0878d8/' target='_blank'>Java | 八大常用类（待更新）</a> - 2023-04-29
+* <a href='https://blog.lisir.me/posts/3459c33c/' target='_blank'>Java | 异常处理</a> - 2023-04-28
+* <a href='https://blog.lisir.me/posts/f9e936dc/' target='_blank'>Java | 类的五大成员</a> - 2023-04-26
 * <a href='https://blog.lisir.me/posts/a31d3cb4/' target='_blank'>软件设计师 | 设计模式（待更新）</a> - 2023-04-21
 * <a href='https://blog.lisir.me/posts/da952he3/' target='_blank'>软件设计师 | UML</a> - 2023-04-15
-* <a href='https://blog.lisir.me/posts/bd700ef5/' target='_blank'>软件设计师 | 面向对象</a> - 2023-04-10
 <!-- END_SECTION:blog -->
 
 </td></tr>
