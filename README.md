@@ -53,7 +53,7 @@
 ## 📃 [Recent Blog](https://blog.lisir.me)
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.lisir.me/posts/183db02/' target='_blank'>Java | 泛型（待更新）</a> - 2023-05-05
+* <a href='https://blog.lisir.me/posts/183db02/' target='_blank'>Java | 泛型</a> - 2023-05-05
 * <a href='https://blog.lisir.me/posts/c7f47f99/' target='_blank'>Java | 集合框架</a> - 2023-05-01
 * <a href='https://blog.lisir.me/posts/9f0878d8/' target='_blank'>Java | 常用类</a> - 2023-04-29
 * <a href='https://blog.lisir.me/posts/3459c33c/' target='_blank'>Java | 异常处理</a> - 2023-04-28
