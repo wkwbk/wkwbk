@@ -68,7 +68,11 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/35681856/' target='_blank'>想读Python3网络爬虫开发实战 第2版</a> - 2023-04-06
+* <a href='http://movie.douban.com/subject/35390640/' target='_blank'>看过雪劫</a> 🌟🌟🌟🌟🌟 力荐- 2022-12-12
+* <a href='http://movie.douban.com/subject/27194292/' target='_blank'>想看怪奇物语 第四季</a> - 2022-10-11
+* <a href='http://movie.douban.com/subject/27119156/' target='_blank'>想看怪奇物语 第三季</a> - 2022-10-11
+* <a href='http://movie.douban.com/subject/26844438/' target='_blank'>想看怪奇物语 第二季</a> - 2022-10-11
 <!-- END_SECTION:douban -->
 
 </td></tr>
