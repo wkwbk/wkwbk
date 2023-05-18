@@ -53,7 +53,7 @@
 ## 📃 [Recent Blog](https://blog.lisir.me)
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.lisir.me/posts/6f70781c/' target='_blank'>软件设计设 | 计算机网络（待更新）</a> - 2023-05-16
+* <a href='https://blog.lisir.me/posts/6f70781c/' target='_blank'>软件设计设 | 计算机网络</a> - 2023-05-16
 * <a href='https://blog.lisir.me/posts/4357767a/' target='_blank'>软件设计师 | 软件工程</a> - 2023-05-14
 * <a href='https://blog.lisir.me/posts/976385a6/' target='_blank'>编程语言 | Java</a> - 2023-05-13
 * <a href='https://blog.lisir.me/posts/b68dcfb1/' target='_blank'>软件设计师 | 结构化开发</a> - 2023-05-13
