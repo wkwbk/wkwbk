@@ -68,11 +68,11 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/10512661/' target='_blank'>看过银翼杀手2049</a> 🌟🌟🌟🌟🌟 力荐- 2023-09-29
+* <a href='http://movie.douban.com/subject/1291839/' target='_blank'>看过银翼杀手</a> 🌟🌟🌟🌟🌟 力荐- 2023-09-28
 * <a href='http://movie.douban.com/subject/4058939/' target='_blank'>想看芭比</a> - 2023-09-27
 * <a href='http://movie.douban.com/subject/35608317/' target='_blank'>看过性爱自修室 第四季</a> 🌟🌟🌟🌟🌟 力荐- 2023-09-27
 * <a href='http://movie.douban.com/subject/4191644/' target='_blank'>想看一天</a> - 2023-07-10
-* <a href='http://movie.douban.com/subject/2210001/' target='_blank'>想看大明王朝1566</a> - 2023-07-09
-* <a href='http://movie.douban.com/subject/26357307/' target='_blank'>看过花木兰</a> 🌟🌟🌟🌟🌟 力荐- 2023-07-09
 <!-- END_SECTION:douban -->
 
 </td></tr>
