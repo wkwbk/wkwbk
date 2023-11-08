@@ -68,11 +68,11 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/34801038/' target='_blank'>看过黑客帝国：矩阵重启</a> 🌟🌟🌟☆☆ 还行- 2023-11-07
 * <a href='http://movie.douban.com/subject/1302467/' target='_blank'>看过黑客帝国3：矩阵革命</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-04
 * <a href='http://movie.douban.com/subject/1304141/' target='_blank'>看过黑客帝国2：重装上阵</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-04
 * <a href='http://movie.douban.com/subject/1291843/' target='_blank'>看过黑客帝国</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-04
 * <a href='http://movie.douban.com/subject/4746257/' target='_blank'>看过明日边缘</a> 🌟🌟🌟🌟🌟 力荐- 2023-10-05
-* <a href='http://movie.douban.com/subject/10512661/' target='_blank'>看过银翼杀手2049</a> 🌟🌟🌟🌟🌟 力荐- 2023-09-29
 <!-- END_SECTION:douban -->
 
 </td></tr>
