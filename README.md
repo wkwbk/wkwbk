@@ -68,11 +68,7 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35797709/' target='_blank'>想看怪物</a> - 2024-04-15
-* <a href='http://movie.douban.com/subject/1292925/' target='_blank'>想看伴我同行</a> - 2024-02-17
-* <a href='http://movie.douban.com/subject/1305858/' target='_blank'>想看无声言证</a> - 2024-01-17
-* <a href='http://movie.douban.com/subject/25934014/' target='_blank'>想看爱乐之城</a> - 2023-12-19
-* <a href='http://movie.douban.com/subject/34801038/' target='_blank'>看过黑客帝国：矩阵重启</a> 🌟🌟🌟☆☆ 还行- 2023-11-07
+
 <!-- END_SECTION:douban -->
 
 </td></tr>
