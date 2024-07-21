@@ -17,13 +17,8 @@
     <a href="https://lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/Website-%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-blue"></a>&emsp;
     <a href="https://blog.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/Blog-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-red"></a>&emsp;
     <a href="https://cloud.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/Cloud%20Disk-%E6%88%91%E7%9A%84%E4%BA%91%E7%9B%98-green"></a>&emsp;
-    <a href="https://nz.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/%E5%93%AA%E5%90%92-%E7%9B%91%E6%8E%A7%E9%9D%A2%E6%9D%BF-blueviolet"></a>&emsp;
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=wkwbk" alt="访客统计" />
+    <a href="https://nz.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/%E5%93%AA%E5%90%92-%E7%9B%91%E6%8E%A7%E9%9D%A2%E6%9D%BF-blueviolet"></a>
   </div>
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/github-contribution-grid-snake.svg">
 
 </div>
 
