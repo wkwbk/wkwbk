@@ -124,10 +124,16 @@ Windows                  1 hr 4 mins         ███████████�
 <!--END_SECTION:waka-->
 
 </td></tr>
+
+<tr><td>
+
+## 🎧 [Music](https://open.spotify.com/user/31jrl65mkz5eurexf2tcymz2lwba)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jrl65mkz5eurexf2tcymz2lwba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jrl65mkz5eurexf2tcymz2lwba&redirect=true)
+
+</td></tr>
+
 </table>
 </div>
 
 <img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jrl65mkz5eurexf2tcymz2lwba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jrl65mkz5eurexf2tcymz2lwba&redirect=true)
-
