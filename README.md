@@ -50,11 +50,11 @@
 ## 📃 [Recent Blog](https://blog.lisir.me)
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.lisir.me/posts/c44653d8/' target='_blank'>使用ACME申请证书（证书自动续期）</a> - 2024-09-28
 * <a href='https://blog.lisir.me/posts/1d11e0f7/' target='_blank'>Java | 第一阶段</a> - 2024-04-27
 * <a href='https://blog.lisir.me/posts/9a718705/' target='_blank'>英语精读</a> - 2024-01-12
 * <a href='https://blog.lisir.me/posts/d3f8bfd7/' target='_blank'>学习笔记 | 英语语法</a> - 2024-01-03
 * <a href='https://blog.lisir.me/posts/b86ba424/' target='_blank'>英语语法 | 语气</a> - 2024-01-02
-* <a href='https://blog.lisir.me/posts/6f1261c3/' target='_blank'>英语语法 | 句子成分</a> - 2023-12-24
 <!-- END_SECTION:blog -->
 
 </td></tr>
