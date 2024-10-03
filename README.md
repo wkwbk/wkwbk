@@ -42,6 +42,12 @@
   <img width="145" src="https://cdn.jsdelivr.net/gh/wkwbk/picx-images-hosting/image/my/wkwbk/001.png">
 </div>
 
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkwbk&show_icons=true&theme=transparent">
+</div>
+
 </td></tr>
 
 <tr><td>
