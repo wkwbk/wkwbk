@@ -10,7 +10,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img order-radius="100px" src="https://img.lisir.me/image/my/wkwbk/001.gif"><br>
+  <img order-radius="100px" src="https://cdn.jsdelivr.net/gh/wkwbk/picx-images-hosting/image/my/wkwbk/001.gif"><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
