@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://blog.lisir.me/atom.xml
+          blog_rss_link: https://lisir.me/blog/atom.xml
           blog_limit: 5 # blog数量
           douban_name: li778057151
           douban_limit: 5 # 豆瓣最新动态数量
