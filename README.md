@@ -53,7 +53,7 @@
 <tr><td>
 
 <!-- 近期博客 -->
-## 📃 [Recent Blog](https://blog.lisir.me)
+## 📃 [Recent Blog](https://lisir.me/blog/)
 
 <!-- START_SECTION:blog -->
 
