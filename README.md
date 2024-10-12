@@ -5,7 +5,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://lisir.me/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕;任何不能摧毁你的东西;都将使你更加强大;你需要掌控自己的生活;而不是被生活掌控&center=true&size=25">
+      <img src="https://siteproxy.libk.top/default/https/readme-typing-svg.herokuapp.com/?lines=今日事，今日毕;任何不能摧毁你的东西;都将使你更加强大;你需要掌控自己的生活;而不是被生活掌控&center=true&size=25">
     </a>
   </div>
 
@@ -35,15 +35,15 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-  <img width="145" src="https://jsd.cdn.zzko.cn/gh/wkwbk/wkwbk/assets/images/002.png">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
-  <img width="145" src="https://jsd.cdn.zzko.cn/gh/wkwbk/wkwbk/assets/images/001.png">
+  <img width="145" src="https://siteproxy.libk.top/default/https/cdn.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/002.png">
+  <img align="center" src="https://siteproxy.libk.top/default/https/github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
+  <img width="145" src="https://siteproxy.libk.top/default/https/cdn.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/001.png">
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkwbk&show_icons=true&theme=transparent">
+  <img align="center" src="https://siteproxy.libk.top/default/https/github-readme-stats.vercel.app/api?username=wkwbk&show_icons=true&theme=transparent">
 </div>
 
 </td></tr>
