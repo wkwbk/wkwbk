@@ -25,7 +25,7 @@
 
 </div>
 
-<img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif">
+<br>
 
 <div align="center">
 <table>
@@ -141,5 +141,3 @@ Windows                  10 hrs 3 mins       ███████████�
 
 </table>
 </div>
-
-<img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif">
