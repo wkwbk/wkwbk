@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -26,8 +24,6 @@
 </div>
 
 <img width="200%" src="https://gcore.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/hr.gif">
-
-# 🙋 Hello
 
 <div align="center">
 <table>
