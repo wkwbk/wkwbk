@@ -38,7 +38,7 @@
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
   <img width="145" src="https://cdn.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/002.png">
-  <img align="center" src="https://siteproxy.libk.top/default/https/github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
   <img width="145" src="https://cdn.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/001.png">
 </div>
 
