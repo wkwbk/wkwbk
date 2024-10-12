@@ -10,7 +10,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img order-radius="100px" src="https://cdn.jsdelivr.net/gh/wkwbk/picx-images-hosting/image/my/wkwbk/001.gif"><br>
+  <img order-radius="100px" src="https://img.lisir.me/image/my/wkwbk/001.gif"><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -35,9 +35,9 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-  <img width="145" src="https://cdn.jsdelivr.net/gh/wkwbk/picx-images-hosting/image/my/wkwbk/002.png">
+  <img width="145" src="https://img.lisir.me/image/my/wkwbk/002.png">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkwbk&theme=dark&hide_border=true">
-  <img width="145" src="https://cdn.jsdelivr.net/gh/wkwbk/picx-images-hosting/image/my/wkwbk/001.png">
+  <img width="145" src="https://img.lisir.me/image/my/wkwbk/001.png">
 </div>
 
 <br>
