@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there 👋
 
 <div align="center">
@@ -142,4 +144,7 @@ Windows                  16 hrs 41 mins      ███████████�
 </td></tr>
 
 </table>
+
+</div>
+
 </div>
