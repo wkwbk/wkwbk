@@ -11,8 +11,6 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://lisir.me/feed.rss
-          blog_limit: 5 # blog数量
           douban_name: li778057151
           douban_limit: 5 # 豆瓣最新动态数量
           commit_message: Updated social rss by social-readme # commit说明
