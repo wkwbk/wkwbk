@@ -53,13 +53,9 @@
 <!-- 近期博客 -->
 ## 📃 [Recent Blog](https://lisir.me/)
 
-<!-- START_SECTION:blog -->
-* <a href='https://lisir.me/test' target='_blank'>测试页</a> - 
-* <a href='https://lisir.me/Notes/Git/00.Git-学习笔记' target='_blank'>Git | 学习笔记（待更新）</a> - 
-* <a href='https://lisir.me/DP/创建型模式' target='_blank'>创建型模式</a> - 
-* <a href='https://lisir.me/DP/结构型模式' target='_blank'>结构型模式</a> - 
-* <a href='https://lisir.me/DP/行为型模式' target='_blank'>行为型模式</a> - 
-<!-- END_SECTION:blog -->
+<!-- feed start -->
+
+<!-- feed end -->
 
 </td></tr>
 
