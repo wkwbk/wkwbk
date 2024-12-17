@@ -54,7 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-
+- Dec 17 - [测试页](https://lisir.me/test)
+- Dec 17 - [Git | 学习笔记（待更新）](https://lisir.me/Notes/Git/00.Git-学习笔记)
+- Dec 17 - [创建型模式](https://lisir.me/DP/创建型模式)
+- Dec 17 - [结构型模式](https://lisir.me/DP/结构型模式)
+- Dec 17 - [行为型模式](https://lisir.me/DP/行为型模式)
 <!-- feed end -->
 
 </td></tr>
