@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Dec 17 - [测试页](https://lisir.me/test)
-- Dec 17 - [Git | 学习笔记（待更新）](https://lisir.me/Notes/Git/00.Git-学习笔记)
-- Dec 17 - [创建型模式](https://lisir.me/DP/创建型模式)
-- Dec 17 - [结构型模式](https://lisir.me/DP/结构型模式)
-- Dec 17 - [行为型模式](https://lisir.me/DP/行为型模式)
+- Dec 27 - [数据库原理及应用](https://lisir.me/思源/第一年上学期/2024年12月31号/00.数据库原理及应用)
+- Dec 27 - [嵌入式](https://lisir.me/思源/第一年上学期/2025年01月02号/00.嵌入式)
+- Dec 27 - [数据结构](https://lisir.me/思源/第一年上学期/2025年01月02号/01.数据结构)
+- Dec 27 - [沟通与写作](https://lisir.me/思源/第一年上学期/2025年01月03号/00.沟通与写作)
+- Dec 27 - [离散数学](https://lisir.me/思源/第一年上学期/2025年01月03号/01.离散数学)
 <!-- feed end -->
 
 </td></tr>
