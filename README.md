@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jan 05 - [计算机组成原理](https://lisir.me/思源/第一年上学期/2025年01月07号/01.计算机组成原理.)
-- Jan 05 - [Java程序设计](https://lisir.me/思源/第一年上学期/2025年01月06号/00.Java程序设计)
-- Jan 05 - [大学英语](https://lisir.me/思源/第一年上学期/2025年01月07号/02.大学英语)
-- Jan 04 - [计算机网络原理](https://lisir.me/思源/第一年上学期/2025年01月06号/01.计算机网络原理)
-- Jan 04 - [软件工程](https://lisir.me/思源/第一年上学期/2025年01月07号/00.软件工程)
+- Jan 06 - [创建型模式](https://lisir.me/DP/创建型模式)
+- Jan 06 - [结构型模式](https://lisir.me/DP/结构型模式)
+- Jan 06 - [行为型模式](https://lisir.me/DP/行为型模式)
+- Jan 06 - [计算机二级 | MS Office](https://lisir.me/Exam/NCRE/00.计算机二级-MS-Office)
+- Jan 06 - [2、计算机二级](https://lisir.me/Exam/NCRE/)
 <!-- feed end -->
 
 </td></tr>
