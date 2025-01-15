@@ -69,11 +69,11 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35674172/' target='_blank'>想看银翼杀手2099</a> - 2025-01-14
+* <a href='http://movie.douban.com/subject/35117544/' target='_blank'>想看伦敦黑帮 第二季</a> - 2025-01-14
+* <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> 🌟🌟🌟🌟🌟 力荐- 2025-01-14
+* <a href='http://movie.douban.com/subject/36323224/' target='_blank'>想看豺狼的日子 第一季</a> - 2025-01-14
 * <a href='http://movie.douban.com/subject/30166972/' target='_blank'>看过少年的你</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-27
-* <a href='http://movie.douban.com/subject/36296618/' target='_blank'>看过志愿军：存亡之战</a> 🌟🌟🌟🌟☆ 推荐- 2024-10-12
-* <a href='http://movie.douban.com/subject/35797709/' target='_blank'>想看怪物</a> - 2024-04-15
-* <a href='http://movie.douban.com/subject/1292925/' target='_blank'>想看伴我同行</a> - 2024-02-17
-* <a href='http://movie.douban.com/subject/1305858/' target='_blank'>想看无声言证</a> - 2024-01-17
 <!-- END_SECTION:douban -->
 
 </td></tr>
