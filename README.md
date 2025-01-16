@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jan 06 - [创建型模式](https://lisir.me/DP/创建型模式)
-- Jan 06 - [结构型模式](https://lisir.me/DP/结构型模式)
-- Jan 06 - [行为型模式](https://lisir.me/DP/行为型模式)
-- Jan 06 - [计算机二级 | MS Office](https://lisir.me/Exam/NCRE/00.计算机二级-MS-Office)
-- Jan 06 - [2、计算机二级](https://lisir.me/Exam/NCRE/)
+- Jan 15 - [Java | 第二阶段](https://lisir.me/Notes/Java/学习阶段/01.Java-第二阶段)
+- Jan 15 - [Java | 第三阶段](https://lisir.me/Notes/Java/学习阶段/02.Java-第三阶段)
+- Jan 15 - [Java | 环境变量配置](https://lisir.me/Notes/Java/基础知识/00.Java-环境变量配置)
+- Jan 15 - [Java | 类的五大成员](https://lisir.me/Notes/Java/基础知识/01.Java-类的五大成员)
+- Jan 15 - [Java | 常用类](https://lisir.me/Notes/Java/基础知识/02.Java-常用类)
 <!-- feed end -->
 
 </td></tr>
