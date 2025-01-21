@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jan 15 - [Java | 第二阶段](https://lisir.me/Notes/Java/学习阶段/01.Java-第二阶段)
-- Jan 15 - [Java | 第三阶段](https://lisir.me/Notes/Java/学习阶段/02.Java-第三阶段)
-- Jan 15 - [Java | 环境变量配置](https://lisir.me/Notes/Java/基础知识/00.Java-环境变量配置)
-- Jan 15 - [Java | 类的五大成员](https://lisir.me/Notes/Java/基础知识/01.Java-类的五大成员)
-- Jan 15 - [Java | 常用类](https://lisir.me/Notes/Java/基础知识/02.Java-常用类)
+- Jan 20 - [6. Docker](https://lisir.me/Notes/Docker/)
+- Jan 20 - [1. Git](https://lisir.me/Notes/Git/)
+- Jan 20 - [7. Hadoop](https://lisir.me/Notes/Hadoop/)
+- Jan 20 - [2. Java](https://lisir.me/Notes/Java/)
+- Jan 20 - [3. Linux](https://lisir.me/Notes/Linux/)
 <!-- feed end -->
 
 </td></tr>
