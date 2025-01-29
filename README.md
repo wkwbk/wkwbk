@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jan 21 - [Java | 第二阶段](https://lisir.me/Notes/Java/学习阶段/01.Java-第二阶段)
+- Jan 28 - [Java | 多线程](https://lisir.me/Notes/Java/基础知识/07.Java-多线程)
+- Jan 27 - [Java | 第二阶段](https://lisir.me/Notes/Java/学习阶段/01.Java-第二阶段)
 - Jan 21 - [Java | 第三阶段](https://lisir.me/Notes/Java/学习阶段/02.Java-第三阶段)
 - Jan 21 - [Java | 反射](https://lisir.me/Notes/Java/基础知识/06.Java-反射)
 - Jan 20 - [6. Docker](https://lisir.me/Notes/Docker/)
-- Jan 20 - [1. Git](https://lisir.me/Notes/Git/)
 <!-- feed end -->
 
 </td></tr>
