@@ -69,7 +69,11 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/36151692/' target='_blank'>看过周处除三害</a> 🌟🌟🌟🌟🌟 力荐- 2025-01-26
+* <a href='http://movie.douban.com/subject/3606971/' target='_blank'>想看飓风营救2</a> - 2025-01-22
+* <a href='http://movie.douban.com/subject/2124586/' target='_blank'>看过飓风营救</a> 🌟🌟🌟🌟🌟 力荐- 2025-01-22
+* <a href='http://movie.douban.com/subject/2213597/' target='_blank'>想看朗读者</a> - 2025-01-16
+* <a href='http://movie.douban.com/subject/35674172/' target='_blank'>想看银翼杀手2099</a> - 2025-01-14
 <!-- END_SECTION:douban -->
 
 </td></tr>
