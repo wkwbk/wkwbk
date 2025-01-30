@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jan 28 - [Java | 多线程](https://lisir.me/Notes/Java/基础知识/07.Java-多线程)
-- Jan 27 - [Java | 第二阶段](https://lisir.me/Notes/Java/学习阶段/01.Java-第二阶段)
-- Jan 21 - [Java | 第三阶段](https://lisir.me/Notes/Java/学习阶段/02.Java-第三阶段)
-- Jan 21 - [Java | 反射](https://lisir.me/Notes/Java/基础知识/06.Java-反射)
-- Jan 20 - [6. Docker](https://lisir.me/Notes/Docker/)
+- Jan 29 - [Git | 学习笔记](https://lisir.me/Notes/Git/00.Git-学习笔记)
+- Jan 29 - [Linux | 学习笔记](https://lisir.me/Notes/Linux/00.Linux-学习笔记)
+- Jan 29 - [Markdown | 入门教程](https://lisir.me/Notes/Markdown/00.Markdown-入门教程)
+- Jan 29 - [MySQL | 学习笔记](https://lisir.me/Notes/MySQL/00.MySQL-学习笔记)
+- Jan 29 - [Shell 脚本 | 学习笔记](https://lisir.me/Notes/Shell/00.Shell 脚本- 学习笔记)
 <!-- feed end -->
 
 </td></tr>
