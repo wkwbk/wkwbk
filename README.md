@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Jan 31 - [Java | IO 流](https://lisir.me/Notes/Java/第二阶段/06.Java-IO 流)
 - Jan 30 - [工厂方法](https://lisir.me/DP/创建型模式/00.工厂方法)
 - Jan 30 - [抽象工厂](https://lisir.me/DP/创建型模式/01.抽象工厂)
 - Jan 30 - [生成器](https://lisir.me/DP/创建型模式/02.生成器)
 - Jan 30 - [原型](https://lisir.me/DP/创建型模式/03.原型)
-- Jan 30 - [单例](https://lisir.me/DP/创建型模式/04.单例)
 <!-- feed end -->
 
 </td></tr>
