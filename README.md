@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Feb 01 - [Java | IO 流](https://lisir.me/Notes/Java/第二阶段/06.Java-IO-流)
-- Jan 30 - [工厂方法](https://lisir.me/DP/创建型模式/00.工厂方法)
-- Jan 30 - [抽象工厂](https://lisir.me/DP/创建型模式/01.抽象工厂)
-- Jan 30 - [生成器](https://lisir.me/DP/创建型模式/02.生成器)
-- Jan 30 - [原型](https://lisir.me/DP/创建型模式/03.原型)
+- Feb 01 - [数据库原理及应用](https://lisir.me/Exam/思源/第一年上学期/2024年12月31号/00.数据库原理及应用)
+- Feb 01 - [嵌入式](https://lisir.me/Exam/思源/第一年上学期/2025年01月02号/00.嵌入式)
+- Feb 01 - [数据结构](https://lisir.me/Exam/思源/第一年上学期/2025年01月02号/01.数据结构)
+- Feb 01 - [沟通与写作](https://lisir.me/Exam/思源/第一年上学期/2025年01月03号/00.沟通与写作)
+- Feb 01 - [离散数学](https://lisir.me/Exam/思源/第一年上学期/2025年01月03号/01.离散数学)
 <!-- feed end -->
 
 </td></tr>
