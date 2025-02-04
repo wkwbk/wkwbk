@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Feb 03 - [Java | 变量](https://lisir.me/Notes/Java/第一阶段/01.Java-变量)
-- Feb 03 - [Java | 运算符](https://lisir.me/Notes/Java/第一阶段/02.Java-运算符)
-- Feb 03 - [Java | 反射](https://lisir.me/Notes/Java/第三阶段/01.Java-反射)
-- Feb 03 - [Java | 异常处理](https://lisir.me/Notes/Java/第二阶段/01.Java-异常处理)
-- Feb 03 - [Java | 常用类](https://lisir.me/Notes/Java/第二阶段/02.Java-常用类)
+- Feb 03 - [Java | 流程控制](https://lisir.me/Notes/Java/第一阶段/03.Java-流程控制)
+- Feb 03 - [233 一键安装脚本](https://lisir.me/GFW/build/00.233-一键安装脚本)
+- Feb 03 - [一键搭建 Telegram 的 MTProto 代理](https://lisir.me/GFW/build/01.一键搭建-Telegram-的-MTProto-代理)
+- Feb 03 - [v2rayN 使用教程](https://lisir.me/GFW/use/00.v2rayN-使用教程)
+- Feb 03 - [让 cmd 使用代理](https://lisir.me/GFW/use/01.让-cmd-使用代理)
 <!-- feed end -->
 
 </td></tr>
