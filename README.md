@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Feb 05 - [个人常用脚本及指令备份](https://lisir.me/Notes/Memo/02.个人常用脚本及指令备份)
+- Feb 05 - [Oracle Cloud 小鸡设置](https://lisir.me/Notes/Memo/10.Oracle-Cloud-小鸡设置)
 - Feb 04 - [Java | 面向对象编程](https://lisir.me/Notes/Java/第一阶段/04.Java-面向对象编程)
 - Feb 04 - [Java | 流程控制](https://lisir.me/Notes/Java/第一阶段/03.Java-流程控制)
 - Feb 03 - [233 一键安装脚本](https://lisir.me/GFW/build/00.233-一键安装脚本)
-- Feb 03 - [一键搭建 Telegram 的 MTProto 代理](https://lisir.me/GFW/build/01.一键搭建-Telegram-的-MTProto-代理)
-- Feb 03 - [v2rayN 使用教程](https://lisir.me/GFW/use/00.v2rayN-使用教程)
 <!-- feed end -->
 
 </td></tr>
