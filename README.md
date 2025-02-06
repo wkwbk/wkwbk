@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Feb 05 - [个人常用脚本及指令备份](https://lisir.me/Notes/Memo/02.个人常用脚本及指令备份)
-- Feb 05 - [Oracle Cloud 小鸡设置](https://lisir.me/Notes/Memo/10.Oracle-Cloud-小鸡设置)
-- Feb 04 - [Java | 面向对象编程](https://lisir.me/Notes/Java/第一阶段/04.Java-面向对象编程)
-- Feb 04 - [Java | 流程控制](https://lisir.me/Notes/Java/第一阶段/03.Java-流程控制)
-- Feb 03 - [233 一键安装脚本](https://lisir.me/GFW/build/00.233-一键安装脚本)
+- Feb 06 - [基础部分](https://lisir.me/Notes/Java/第一阶段/OOP/00.基础部分)
+- Feb 06 - [中级部分](https://lisir.me/Notes/Java/第一阶段/OOP/01.中级部分)
+- Feb 06 - [高级部分](https://lisir.me/Notes/Java/第一阶段/OOP/02.高级部分)
+- Feb 05 - [六大原则](https://lisir.me/DP/六大原则)
+- Feb 05 - [Java | 面向对象编程](https://lisir.me/Notes/Java/第一阶段/OOP/)
 <!-- feed end -->
 
 </td></tr>
