@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Feb 09 - [Java | 函数式编程](https://lisir.me/Notes/Java/第三阶段/02.Java-函数式编程)
-- Feb 09 - [基础部分](https://lisir.me/Notes/Java/第一阶段/OOP/00.基础部分)
-- Feb 08 - [中级部分](https://lisir.me/Notes/Java/第一阶段/OOP/01.中级部分)
-- Feb 08 - [高级部分](https://lisir.me/Notes/Java/第一阶段/OOP/02.高级部分)
-- Feb 08 - [Java | 面向对象编程](https://lisir.me/Notes/Java/第一阶段/OOP/)
+- Feb 10 - [Java | XML](https://lisir.me/Notes/Java/第三阶段/05.Java-XML)
+- Feb 10 - [Java | MyBatis](https://lisir.me/Notes/Java/第三阶段/07.Java-MyBatis)
+- Feb 10 - [Java | JUnit](https://lisir.me/Notes/Java/第三阶段/08.Java-JUnit)
+- Feb 10 - [Java | JUL](https://lisir.me/Notes/Java/第三阶段/09.Java-JUL)
+- Feb 10 - [Java | Maven](https://lisir.me/Notes/Java/第三阶段/10.Java-Maven)
 <!-- feed end -->
 
 </td></tr>
