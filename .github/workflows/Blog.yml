@@ -2,8 +2,8 @@ name: Recent Blog
 
 on:
   schedule:
-    - cron: "0-59 3 * * *"
-    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
+    - cron: "0 8 * * *"
+      timezone: "Asia/Shanghai"
   workflow_dispatch:
 
 jobs:
