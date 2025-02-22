@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Feb 22 - [让 cmd 使用代理](https://lisir.me/GFW/use/01.让-cmd-使用代理)
 - Feb 21 - [Java | 正则表达式](https://lisir.me/Notes/Java/第三阶段/04.Java-正则表达式)
 - Feb 21 - [Java | XML](https://lisir.me/Notes/Java/第三阶段/05.Java-XML)
 - Feb 21 - [Java | JUL](https://lisir.me/Notes/Java/第三阶段/09.Java-JUL)
 - Feb 21 - [Java | Maven](https://lisir.me/Notes/Java/第三阶段/10.Java-Maven)
-- Feb 10 - [Java | 反射](https://lisir.me/Notes/Java/第三阶段/01.Java-反射)
 <!-- feed end -->
 
 </td></tr>
