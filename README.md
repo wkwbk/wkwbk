@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Feb 24 - [科学上网工具哪个好](https://lisir.me/GFW/introduce/00.科学上网工具哪个好)
+- Feb 24 - [科学上网工具介绍](https://lisir.me/GFW/introduce/01.科学上网工具介绍)
 - Feb 24 - [测试页](https://lisir.me/test)
 - Feb 22 - [让 cmd 使用代理](https://lisir.me/GFW/use/01.让-cmd-使用代理)
 - Feb 21 - [Java | 正则表达式](https://lisir.me/Notes/Java/第三阶段/04.Java-正则表达式)
-- Feb 21 - [Java | XML](https://lisir.me/Notes/Java/第三阶段/05.Java-XML)
-- Feb 21 - [Java | JUL](https://lisir.me/Notes/Java/第三阶段/09.Java-JUL)
 <!-- feed end -->
 
 </td></tr>
