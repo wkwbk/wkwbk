@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Feb 27 - [pip 使用国内镜像源](https://lisir.me/Notes/Memo/11.pip-使用国内镜像源)
 - Feb 26 - [Java | 正则表达式](https://lisir.me/Notes/Java/第三阶段/04.Java-正则表达式)
 - Feb 26 - [Java | XML](https://lisir.me/Notes/Java/第三阶段/05.Java-XML)
 - Feb 26 - [Java | JUL](https://lisir.me/Notes/Java/第三阶段/09.Java-JUL)
 - Feb 26 - [Java | Maven](https://lisir.me/Notes/Java/第三阶段/10.Java-Maven)
-- Feb 24 - [科学上网工具哪个好](https://lisir.me/GFW/introduce/00.科学上网工具哪个好)
 <!-- feed end -->
 
 </td></tr>
