@@ -2,8 +2,7 @@ name: Social Readme
 
 on:
   schedule:
-    - cron: "0 8 * * *"
-      timezone: "Asia/Shanghai"
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 jobs:
