@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Mar 02 - [Git | 学习笔记](https://lisir.me/Notes/Git/00.Git-学习笔记)
-- Feb 27 - [pip 使用国内镜像源](https://lisir.me/Notes/Memo/11.pip-使用国内镜像源)
-- Feb 26 - [Java | 正则表达式](https://lisir.me/Notes/Java/第三阶段/04.Java-正则表达式)
-- Feb 26 - [Java | XML](https://lisir.me/Notes/Java/第三阶段/05.Java-XML)
-- Feb 26 - [Java | JUL](https://lisir.me/Notes/Java/第三阶段/09.Java-JUL)
+- Mar 04 - [Oracle Cloud 小鸡设置](https://lisir.me/Notes/Linux/04.Oracle-Cloud-小鸡设置)
+- Mar 04 - [个人常用脚本及指令备份](https://lisir.me/Notes/Linux/05.个人常用脚本及指令备份)
+- Mar 04 - [使用 ACME 申请证书](https://lisir.me/Notes/Linux/06.使用-ACME-申请证书)
+- Mar 04 - [中英混排和标点符号的用法](https://lisir.me/Notes/Markdown/01.中英混排和标点符号的用法)
+- Mar 04 - [打包解压查看 ASAR 文件](https://lisir.me/Notes/Memo/03.打包解压查看-ASAR-文件)
 <!-- feed end -->
 
 </td></tr>
