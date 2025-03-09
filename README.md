@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Mar 09 - [pip 使用国内镜像源](https://lisir.me/Notes/Lang/Python/00.pip-使用国内镜像源)
 - Mar 05 - [软考中级 | 软件设计师](https://lisir.me/Exam/SDE/00.软考中级-软件设计师)
 - Mar 05 - [Java | 类的五大成员](https://lisir.me/Notes/Lang/Java/第一阶段/05.Java-类的五大成员)
 - Mar 05 - [英语语法 | 简单句](https://lisir.me/Notes/Lang/English/02.英语语法-简单句)
 - Mar 05 - [英语语法 | 句子成分](https://lisir.me/Notes/Lang/English/01.英语语法-句子成分)
-- Mar 05 - [英语语法 | 词性](https://lisir.me/Notes/Lang/English/03.英语语法-词性)
 <!-- feed end -->
 
 </td></tr>
