@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Mar 22 - [Git | 学习笔记](https://lisir.me/Notes/Tool/Git/00.Git-学习笔记)
-- Mar 22 - [Git | 安装配置使用](https://lisir.me/Notes/Tool/Git/01.Git-安装配置使用)
-- Mar 21 - [Linux | 学习笔记](https://lisir.me/Notes/Sys/Linux/00.Linux-学习笔记)
-- Mar 09 - [pip 使用国内镜像源](https://lisir.me/Notes/Lang/Python/00.pip-使用国内镜像源)
-- Mar 05 - [软考中级 | 软件设计师](https://lisir.me/Exam/SDE/00.软考中级-软件设计师)
+- Mar 24 - [v2rayN 使用教程](https://lisir.me/GFW/使用/00.v2rayN-使用教程)
+- Mar 24 - [节点搭建教程](https://lisir.me/GFW/搭建/00.节点搭建教程)
+- Mar 24 - [科学上网工具介绍](https://lisir.me/GFW/介绍/00.科学上网工具介绍)
+- Mar 24 - [科学上网工具哪个好](https://lisir.me/GFW/介绍/01.科学上网工具哪个好)
+- Mar 24 - [1. 介绍](https://lisir.me/GFW/介绍/)
 <!-- feed end -->
 
 </td></tr>
