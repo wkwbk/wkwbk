@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Mar 24 - [v2rayN 使用教程](https://lisir.me/GFW/使用/00.v2rayN-使用教程)
-- Mar 24 - [节点搭建教程](https://lisir.me/GFW/搭建/00.节点搭建教程)
-- Mar 24 - [科学上网工具介绍](https://lisir.me/GFW/介绍/00.科学上网工具介绍)
-- Mar 24 - [科学上网工具哪个好](https://lisir.me/GFW/介绍/01.科学上网工具哪个好)
-- Mar 24 - [1. 介绍](https://lisir.me/GFW/介绍/)
+- Mar 25 - [中级部分](https://lisir.me/Notes/Lang/Java/第一阶段/OOP/01.中级部分)
+- Mar 25 - [Java | 网络编程](https://lisir.me/Notes/Lang/Java/第三阶段/00.Java-网络编程)
+- Mar 25 - [Java | 反射](https://lisir.me/Notes/Lang/Java/第三阶段/01.Java-反射)
+- Mar 25 - [Java | 函数式编程](https://lisir.me/Notes/Lang/Java/第三阶段/02.Java-函数式编程)
+- Mar 25 - [Java | 枚举和注解](https://lisir.me/Notes/Lang/Java/第二阶段/00.Java-枚举和注解)
 <!-- feed end -->
 
 </td></tr>
