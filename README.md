@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Mar 25 - [中级部分](https://lisir.me/Notes/Lang/Java/第一阶段/OOP/01.中级部分)
-- Mar 25 - [Java | 网络编程](https://lisir.me/Notes/Lang/Java/第三阶段/00.Java-网络编程)
-- Mar 25 - [Java | 反射](https://lisir.me/Notes/Lang/Java/第三阶段/01.Java-反射)
-- Mar 25 - [Java | 函数式编程](https://lisir.me/Notes/Lang/Java/第三阶段/02.Java-函数式编程)
-- Mar 25 - [Java | 枚举和注解](https://lisir.me/Notes/Lang/Java/第二阶段/00.Java-枚举和注解)
+- Mar 27 - [Git | 学习笔记](https://lisir.me/Notes/Tool/Git/00.Git-学习笔记)
+- Mar 27 - [Git | 安装配置使用](https://lisir.me/Notes/Tool/Git/01.Git-安装配置使用)
+- Mar 27 - [科学上网工具哪个好](https://lisir.me/GFW/介绍/01.科学上网工具哪个好)
+- Mar 27 - [GitHub 基础操作](https://lisir.me/Notes/Tool/GitHub/00.GitHub-基础操作)
+- Mar 27 - [开源许可证](https://lisir.me/Notes/Tool/GitHub/01.开源许可证)
 <!-- feed end -->
 
 </td></tr>
