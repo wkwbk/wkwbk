@@ -54,11 +54,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Apr 05 - [Markdown | 入门教程](https://lisir.me/Notes/Lang/Markdown/00.Markdown-入门教程)
+- Apr 05 - [文案风格及排版指南](https://lisir.me/Notes/Lang/Markdown/01.文案风格及排版指南)
 - Apr 01 - [pip 常用命令](https://lisir.me/Notes/Lang/Python/01.pip-常用命令)
 - Mar 31 - [pip 使用国内镜像源](https://lisir.me/Notes/Lang/Python/00.pip-使用国内镜像源)
 - Mar 27 - [Git | 学习笔记](https://lisir.me/Notes/Tool/Git/00.Git-学习笔记)
-- Mar 27 - [Git | 安装配置使用](https://lisir.me/Notes/Tool/Git/01.Git-安装配置使用)
-- Mar 27 - [科学上网工具哪个好](https://lisir.me/GFW/介绍/01.科学上网工具哪个好)
 <!-- feed end -->
 
 </td></tr>
