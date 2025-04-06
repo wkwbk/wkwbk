@@ -4,13 +4,6 @@
 
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://lisir.me/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕;任何不能摧毁你的东西;都将使你更加强大;你需要掌控自己的生活;而不是被生活掌控&center=true&size=25">
-    </a>
-  </div>
-
   <!-- knock code pictures 敲代码的图片 -->
   <img order-radius="100px" src="https://cdn.jsdelivr.net/gh/wkwbk/wkwbk/assets/images/001.gif"><br>
 
