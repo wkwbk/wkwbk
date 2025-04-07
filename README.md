@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Apr 07 - [Java | Maven](https://lisir.me/Notes/Lang/Java/第三阶段/10.Java-Maven)
 - Apr 05 - [Markdown | 入门教程](https://lisir.me/Notes/Lang/Markdown/00.Markdown-入门教程)
 - Apr 05 - [文案风格及排版指南](https://lisir.me/Notes/Lang/Markdown/01.文案风格及排版指南)
 - Apr 01 - [pip 常用命令](https://lisir.me/Notes/Lang/Python/01.pip-常用命令)
 - Mar 31 - [pip 使用国内镜像源](https://lisir.me/Notes/Lang/Python/00.pip-使用国内镜像源)
-- Mar 27 - [Git | 学习笔记](https://lisir.me/Notes/Tool/Git/00.Git-学习笔记)
 <!-- feed end -->
 
 </td></tr>
