@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Apr 19 - [Docker 安装教程](https://lisir.me/Notes/Sys/Docker/00.Docker-安装教程)
+- Apr 19 - [Cursor 无限续杯](https://lisir.me/Notes/AI/02.Cursor-无限续杯)
+- Apr 19 - [Cursor 基本使用](https://lisir.me/Notes/AI/01.Cursor-基本使用)
 - Apr 19 - [Docker 管理工具 Portainer](https://lisir.me/Notes/Sys/Docker/02.Docker-管理工具-Portainer)
-- Apr 19 - [Docker 容器百宝箱](https://lisir.me/Notes/Sys/Docker/03.Docker-容器百宝箱)
-- Apr 18 - [Docker 镜像源和代理配置](https://lisir.me/Notes/Sys/Docker/01.Docker-镜像源和代理配置)
-- Apr 07 - [Java | Maven](https://lisir.me/Notes/Lang/Java/第三阶段/10.Java-Maven)
+- Apr 19 - [Docker 基本使用](https://lisir.me/Notes/Sys/Docker/04.Docker-基本使用)
+- Apr 19 - [Docker 安装教程](https://lisir.me/Notes/Sys/Docker/00.Docker-安装教程)
 <!-- feed end -->
 
 </td></tr>
