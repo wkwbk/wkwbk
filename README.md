@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Apr 21 - [Git | 安装配置使用](https://lisir.me/Notes/Tool/Git/01.Git-安装配置使用)
 - Apr 20 - [v2rayN 使用教程](https://lisir.me/GFW/使用/00.v2rayN-使用教程)
 - Apr 20 - [MySQL | 学习笔记](https://lisir.me/Notes/DB/MySQL/00.MySQL-学习笔记)
 - Apr 20 - [Shell 脚本 | 学习笔记](https://lisir.me/Notes/Lang/Shell/00.Shell-脚本-学习笔记)
 - Apr 20 - [Cursor 无限续杯](https://lisir.me/Notes/AI/02.Cursor-无限续杯)
-- Apr 20 - [Cursor 基本使用](https://lisir.me/Notes/AI/01.Cursor-基本使用)
 <!-- feed end -->
 
 </td></tr>
