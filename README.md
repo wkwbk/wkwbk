@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Apr 22 - [MCP 配置指南](https://lisir.me/Notes/AI/04.MCP-配置指南)
+- Apr 22 - [主流人工智能 API 使用指南](https://lisir.me/Notes/AI/03.主流人工智能-API-使用指南)
 - Apr 21 - [Git | 安装配置使用](https://lisir.me/Notes/Tool/Git/01.Git-安装配置使用)
 - Apr 20 - [v2rayN 使用教程](https://lisir.me/GFW/使用/00.v2rayN-使用教程)
 - Apr 20 - [MySQL | 学习笔记](https://lisir.me/Notes/DB/MySQL/00.MySQL-学习笔记)
-- Apr 20 - [Shell 脚本 | 学习笔记](https://lisir.me/Notes/Lang/Shell/00.Shell-脚本-学习笔记)
-- Apr 20 - [Cursor 无限续杯](https://lisir.me/Notes/AI/02.Cursor-无限续杯)
 <!-- feed end -->
 
 </td></tr>
