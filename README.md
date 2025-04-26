@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Apr 26 - [Cursor 无限续杯](https://lisir.me/Notes/AI/Cursor/02.Cursor-无限续杯)
 - Apr 23 - [技术选型指南](https://lisir.me/Stack/00.技术选型指南)
 - Apr 23 - [前端框架选型](https://lisir.me/Stack/01.前端框架)
 - Apr 23 - [后端框架选型](https://lisir.me/Stack/02.后端框架)
 - Apr 23 - [前后端结合方式](https://lisir.me/Stack/03.前后端结合)
-- Apr 23 - [移动端技术选型](https://lisir.me/Stack/04.移动端框架)
 <!-- feed end -->
 
 </td></tr>
