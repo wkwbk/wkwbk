@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Apr 28 - [Android Studio 环境变量设置](https://lisir.me/Stack/Android-Studio-环境变量设置)
-- Apr 28 - [Docker 镜像源和代理配置](https://lisir.me/Notes/Sys/Docker/01.Docker-镜像源和代理配置)
-- Apr 28 - [各 Linux 发行版修改镜像源](https://lisir.me/Notes/Sys/Linux/01.各-Linux-发行版修改镜像源)
-- Apr 26 - [Cursor 无限续杯](https://lisir.me/Notes/AI/Cursor/02.Cursor-无限续杯)
-- Apr 23 - [技术选型指南](https://lisir.me/Stack/00.技术选型指南)
+- Jun 10 - [Docker 安装教程](https://lisir.me/Notes/Sys/Docker/00.Docker-安装教程)
+- Jun 10 - [Python 机器学习](https://lisir.me/Exam/XASYU/第一年下学期/2025-06-30/Python-机器学习)
+- Jun 10 - [可视化建模与 UML](https://lisir.me/Exam/XASYU/第一年下学期/2025-06-30/UML-可视化建模与)
+- Jun 10 - [Linux 操作系统](https://lisir.me/Exam/XASYU/第一年下学期/2025-07-01/Linux-操作系统)
+- Jun 10 - [Python 大数据采集](https://lisir.me/Exam/XASYU/第一年下学期/2025-07-01/Python-大数据采集)
 <!-- feed end -->
 
 </td></tr>
