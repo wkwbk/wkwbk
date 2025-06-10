@@ -62,7 +62,7 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/36318331/' target='_blank'>想看照明商店</a> - 2025-03-08
+* <a href='https://movie.douban.com/subject/36318331/' target='_blank'>看过照明商店</a> 🌟🌟🌟🌟🌟 力荐- 2025-06-11
 * <a href='https://movie.douban.com/subject/34780991/' target='_blank'>看过哪吒之魔童闹海</a> 🌟🌟🌟🌟🌟 力荐- 2025-02-22
 * <a href='https://movie.douban.com/subject/10604851/' target='_blank'>想看恶战</a> - 2025-02-13
 * <a href='https://movie.douban.com/subject/35295017/' target='_blank'>看过请别相信她</a> 🌟🌟🌟🌟☆ 推荐- 2025-02-04
