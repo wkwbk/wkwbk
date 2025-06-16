@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jun 13 - [大学英语](https://lisir.me/Exam/XASYU/第一年下学期/2025-07-03/大学英语)
-- Jun 10 - [Docker 安装教程](https://lisir.me/Notes/Sys/Docker/00.Docker-安装教程)
-- Jun 10 - [Python 机器学习](https://lisir.me/Exam/XASYU/第一年下学期/2025-06-30/Python-机器学习)
-- Jun 10 - [可视化建模与 UML](https://lisir.me/Exam/XASYU/第一年下学期/2025-06-30/UML-可视化建模与)
-- Jun 10 - [Linux 操作系统](https://lisir.me/Exam/XASYU/第一年下学期/2025-07-01/Linux-操作系统)
+- Jun 16 - [Python 大数据采集](https://lisir.me/Exam/XASYU/第一年下学期/2025-06-27/Python-大数据采集)
+- Jun 16 - [Python 机器学习](https://lisir.me/Exam/XASYU/第一年下学期/2025-06-26/Python-机器学习)
+- Jun 16 - [可视化建模与 UML](https://lisir.me/Exam/XASYU/第一年下学期/2025-06-26/UML-可视化建模与)
+- Jun 16 - [Linux 操作系统](https://lisir.me/Exam/XASYU/第一年下学期/2025-06-27/Linux-操作系统)
+- Jun 16 - [算法分析与设计](https://lisir.me/Exam/XASYU/第一年下学期/2025-06-30/算法分析与设计)
 <!-- feed end -->
 
 </td></tr>
