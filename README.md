@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jun 20 - [第一年下学期](https://lisir.me/Exam/XASYU/Second/)
-- Jun 20 - [机器学习](https://lisir.me/Exam/XASYU/Second/2025-06-25/00.机器学习)
-- Jun 20 - [算法分析与设计](https://lisir.me/Exam/XASYU/Second/2025-07-01/00.算法分析与设计)
-- Jun 20 - [可视化建模与 UML](https://lisir.me/Exam/XASYU/Second/2025-06-24/00.可视化建模与-UML)
-- Jun 20 - [大数据技术基础](https://lisir.me/Exam/XASYU/Second/2025-06-27/00.大数据技术基础)
+- Jun 22 - [可视化建模与 UML](https://lisir.me/Exam/XASYU/Second/2025-06-24/00.可视化建模与-UML)
+- Jun 22 - [Linux 操作系统](https://lisir.me/Exam/XASYU/Second/2025-06-24/01.Linux-操作系统)
+- Jun 22 - [工厂方法](https://lisir.me/DP/创建型模式/00.工厂方法)
+- Jun 22 - [抽象工厂](https://lisir.me/DP/创建型模式/01.抽象工厂)
+- Jun 22 - [生成器](https://lisir.me/DP/创建型模式/02.生成器)
 <!-- feed end -->
 
 </td></tr>
