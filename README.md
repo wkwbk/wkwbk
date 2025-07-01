@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jun 29 - [大学英语](https://lisir.me/Exam/XASYU/Second/2025-07-01/01.大学英语)
-- Jun 29 - [算法分析与设计](https://lisir.me/Exam/XASYU/Second/2025-07-01/00.算法分析与设计)
-- Jun 26 - [软件测试](https://lisir.me/Exam/XASYU/Second/2025-06-27/01.软件测试)
-- Jun 26 - [大数据技术基础](https://lisir.me/Exam/XASYU/Second/2025-06-27/00.大数据技术基础)
-- Jun 23 - [机器学习](https://lisir.me/Exam/XASYU/Second/2025-06-25/00.机器学习)
+- Jul 01 - [面试扫盲](https://lisir.me/Notes/Interview/00.面试扫盲)
+- Jul 01 - [API 使用指南](https://lisir.me/Notes/Tool/AI/00.API-使用指南)
+- Jul 01 - [MCP 配置指南](https://lisir.me/Notes/Tool/AI/01.MCP-配置指南)
+- Jul 01 - [1. AI](https://lisir.me/Notes/Tool/AI/)
+- Jul 01 - [3. Git](https://lisir.me/Notes/Tool/Git/)
 <!-- feed end -->
 
 </td></tr>
