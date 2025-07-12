@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Jul 12 - [项目开发流程](https://lisir.me/Notes/Stack/00.项目开发流程)
+- Jul 12 - [技术选型指南](https://lisir.me/Notes/Stack/01.技术选型指南)
+- Jul 12 - [前后端结合](https://lisir.me/Notes/Stack/02.前后端结合)
+- Jul 12 - [部署方案选型](https://lisir.me/Notes/Stack/03.部署方案选型)
 - Jul 01 - [面试扫盲](https://lisir.me/Notes/Interview/00.面试扫盲)
-- Jul 01 - [API 使用指南](https://lisir.me/Notes/Tool/AI/00.API-使用指南)
-- Jul 01 - [MCP 配置指南](https://lisir.me/Notes/Tool/AI/01.MCP-配置指南)
-- Jul 01 - [1. AI](https://lisir.me/Notes/Tool/AI/)
-- Jul 01 - [3. Git](https://lisir.me/Notes/Tool/Git/)
 <!-- feed end -->
 
 </td></tr>
