@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Jul 13 - [VitePress 安装教程](https://lisir.me/install)
+- Jul 13 - [大厂招聘页](https://lisir.me/Notes/Interview/01.大厂招聘)
+- Jul 13 - [前端 UI 组件库](https://lisir.me/Notes/Stack/04.前端-UI-组件库)
 - Jul 12 - [项目开发流程](https://lisir.me/Notes/Stack/00.项目开发流程)
 - Jul 12 - [技术选型指南](https://lisir.me/Notes/Stack/01.技术选型指南)
-- Jul 12 - [前后端结合](https://lisir.me/Notes/Stack/02.前后端结合)
-- Jul 12 - [部署方案选型](https://lisir.me/Notes/Stack/03.部署方案选型)
-- Jul 01 - [面试扫盲](https://lisir.me/Notes/Interview/00.面试扫盲)
 <!-- feed end -->
 
 </td></tr>
