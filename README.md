@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
+- Jul 21 - [前端 UI 组件库](https://lisir.me/Notes/Stack/04.前端-UI-组件库)
 - Jul 20 - [扫盲](https://lisir.me/Notes/Job/00.扫盲)
 - Jul 20 - [官方招聘](https://lisir.me/Notes/Job/01.官方招聘)
 - Jul 20 - [准备简历](https://lisir.me/Notes/Job/求职指南/00.准备简历)
 - Jul 20 - [投递简历](https://lisir.me/Notes/Job/求职指南/01.投递简历)
-- Jul 20 - [笔试测评](https://lisir.me/Notes/Job/求职指南/02.笔试测评)
 <!-- feed end -->
 
 </td></tr>
