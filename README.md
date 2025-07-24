@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jul 22 - [Redis 学习笔记](https://lisir.me/Notes/DB/Redis/00.Redis-学习笔记)
+- Jul 23 - [分布式系统](https://lisir.me/Notes/Stack/07.分布式系统)
+- Jul 23 - [Redis 学习笔记](https://lisir.me/Notes/DB/Redis/00.Redis-学习笔记)
 - Jul 22 - [3. Redis](https://lisir.me/Notes/DB/Redis/)
 - Jul 22 - [Nginx 学习笔记](https://lisir.me/Notes/Stack/05.Nginx-学习笔记)
 - Jul 22 - [Netty 学习笔记](https://lisir.me/Notes/Stack/06.Netty-学习笔记)
-- Jul 21 - [前端 UI 组件库](https://lisir.me/Notes/Stack/04.前端-UI-组件库)
 <!-- feed end -->
 
 </td></tr>
