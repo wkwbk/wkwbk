@@ -62,11 +62,11 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
+* <a href='https://movie.douban.com/subject/37067733/' target='_blank'>想看侠探杰克 第四季</a> - 2025-07-27
+* <a href='https://movie.douban.com/subject/35763119/' target='_blank'>想看侠探杰克 第二季</a> - 2025-07-27
+* <a href='https://movie.douban.com/subject/36670568/' target='_blank'>想看侠探杰克 第三季</a> - 2025-07-27
+* <a href='https://movie.douban.com/subject/30378897/' target='_blank'>想看侠探杰克 第一季</a> - 2025-07-27
 * <a href='https://book.douban.com/subject/1752349/' target='_blank'>想读胡雪岩（全三册）</a> - 2025-06-17
-* <a href='https://movie.douban.com/subject/36318331/' target='_blank'>看过照明商店</a> 🌟🌟🌟🌟🌟 力荐- 2025-06-11
-* <a href='https://movie.douban.com/subject/34780991/' target='_blank'>看过哪吒之魔童闹海</a> 🌟🌟🌟🌟🌟 力荐- 2025-02-22
-* <a href='https://movie.douban.com/subject/10604851/' target='_blank'>想看恶战</a> - 2025-02-13
-* <a href='https://movie.douban.com/subject/35295017/' target='_blank'>看过请别相信她</a> 🌟🌟🌟🌟☆ 推荐- 2025-02-04
 <!-- END_SECTION:douban -->
 
 </td></tr>
