@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jul 23 - [分布式系统](https://lisir.me/Notes/Stack/07.分布式系统)
-- Jul 23 - [Redis 学习笔记](https://lisir.me/Notes/DB/Redis/00.Redis-学习笔记)
-- Jul 22 - [3. Redis](https://lisir.me/Notes/DB/Redis/)
-- Jul 22 - [Nginx 学习笔记](https://lisir.me/Notes/Stack/05.Nginx-学习笔记)
-- Jul 22 - [Netty 学习笔记](https://lisir.me/Notes/Stack/06.Netty-学习笔记)
+- Jul 31 - [专业术语](https://lisir.me/Notes/Job/求职扫盲/00.专业术语)
+- Jul 31 - [官方招聘](https://lisir.me/Notes/Job/求职扫盲/01.官方招聘)
+- Jul 31 - [1. 求职扫盲](https://lisir.me/Notes/Job/求职扫盲/)
+- Jul 31 - [2. 求职指南](https://lisir.me/Notes/Job/求职指南/)
+- Jul 31 - [MySQL 面试题](https://lisir.me/Notes/Job/面试题解/00.MySQL 面试题)
 <!-- feed end -->
 
 </td></tr>
