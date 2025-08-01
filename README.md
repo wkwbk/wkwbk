@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Jul 31 - [专业术语](https://lisir.me/Notes/Job/求职扫盲/00.专业术语)
-- Jul 31 - [官方招聘](https://lisir.me/Notes/Job/求职扫盲/01.官方招聘)
-- Jul 31 - [1. 求职扫盲](https://lisir.me/Notes/Job/求职扫盲/)
-- Jul 31 - [2. 求职指南](https://lisir.me/Notes/Job/求职指南/)
-- Jul 31 - [MySQL 面试题](https://lisir.me/Notes/Job/面试题解/00.MySQL 面试题)
+- Aug 01 - [基本写法](https://lisir.me/Notes/Job/简历写法/00.基本写法)
+- Aug 01 - [用户中心项目简历写法](https://lisir.me/Notes/Job/简历写法/01.用户中心项目)
+- Aug 01 - [伙伴匹配项目简历写法](https://lisir.me/Notes/Job/简历写法/02.伙伴匹配项目)
+- Aug 01 - [AI 超级智能体项目简历写法](https://lisir.me/Notes/Job/简历写法/03.AI-超级智能体项目)
+- Aug 01 - [4. 简历写法](https://lisir.me/Notes/Job/简历写法/)
 <!-- feed end -->
 
 </td></tr>
