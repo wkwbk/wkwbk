@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Aug 07 - [Redis 面试题](https://lisir.me/Notes/Job/面试题解/01.Redis-面试题)
+- Aug 08 - [Redis 面试题](https://lisir.me/Notes/Job/面试题解/01.Redis-面试题)
 - Aug 06 - [MySQL 面试题](https://lisir.me/Notes/Job/面试题解/00.MySQL-面试题)
 - Aug 02 - [官方招聘](https://lisir.me/Notes/Job/求职扫盲/01.官方招聘)
 - Aug 01 - [基本写法](https://lisir.me/Notes/Job/简历写法/00.基本写法)
