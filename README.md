@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Aug 31 - [普通数组](https://lisir.me/Notes/Job/算法题解/04.普通数组)
+- Sep 01 - [普通数组](https://lisir.me/Notes/Job/算法题解/04.普通数组)
 - Aug 31 - [子串](https://lisir.me/Notes/Job/算法题解/03.子串)
 - Aug 28 - [Java 面试题](https://lisir.me/Notes/Job/面试题解/05.Java-面试题)
 - Aug 28 - [滑动窗口](https://lisir.me/Notes/Job/算法题解/02.滑动窗口)
