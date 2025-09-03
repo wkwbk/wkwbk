@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Sep 02 - [矩阵](https://lisir.me/Notes/Job/算法题解/05.矩阵)
+- Sep 03 - [链表](https://lisir.me/Notes/Job/算法题解/06.链表)
+- Sep 03 - [矩阵](https://lisir.me/Notes/Job/算法题解/05.矩阵)
 - Sep 02 - [普通数组](https://lisir.me/Notes/Job/算法题解/04.普通数组)
 - Aug 31 - [子串](https://lisir.me/Notes/Job/算法题解/03.子串)
 - Aug 28 - [Java 面试题](https://lisir.me/Notes/Job/面试题解/05.Java-面试题)
-- Aug 28 - [滑动窗口](https://lisir.me/Notes/Job/算法题解/02.滑动窗口)
 <!-- feed end -->
 
 </td></tr>
