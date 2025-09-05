@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.me/)
 
 <!-- feed start -->
-- Sep 04 - [链表](https://lisir.me/Notes/Job/算法题解/06.链表)
+- Sep 05 - [链表](https://lisir.me/Notes/Job/算法题解/06.链表)
 - Sep 03 - [矩阵](https://lisir.me/Notes/Job/算法题解/05.矩阵)
 - Sep 02 - [普通数组](https://lisir.me/Notes/Job/算法题解/04.普通数组)
 - Aug 31 - [子串](https://lisir.me/Notes/Job/算法题解/03.子串)
