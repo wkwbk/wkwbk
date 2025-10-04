@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Sep 17 - [二分查找](https://lisir.cc/Notes/Job/算法题解/10.二分查找)
-- Sep 17 - [回溯](https://lisir.cc/Notes/Job/算法题解/09.回溯)
-- Sep 14 - [图论](https://lisir.cc/Notes/Job/算法题解/08.图论)
-- Sep 13 - [二叉树](https://lisir.cc/Notes/Job/算法题解/07.二叉树)
-- Sep 11 - [链表](https://lisir.cc/Notes/Job/算法题解/06.链表)
+- Oct 04 - [计算机二级 | MS Office](https://lisir.cc/Exam/NCRE/00.计算机二级-MS-Office)
+- Oct 04 - [虚拟机中搭建 Hadoop 集群](https://lisir.cc/Notes/DB/Hadoop/00.虚拟机中搭建-Hadoop-集群)
+- Oct 04 - [Java | 环境配置](https://lisir.cc/Notes/Lang/Java/第一阶段/00.Java-环境配置)
+- Oct 04 - [文案风格及排版指南](https://lisir.cc/Notes/Lang/Markdown/00.Markdown-入门教程)
+- Oct 04 - [文案风格及排版指南](https://lisir.cc/Notes/Lang/Markdown/01.文案风格及排版指南)
 <!-- feed end -->
 
 </td></tr>
