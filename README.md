@@ -5,14 +5,14 @@
 <div align="center">
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img order-radius="100px" src="https://img.lisir.me/image/my/001.gif"><br>
+  <img order-radius="100px" src="https://img.lisir.cc/image/my/001.gif"><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/Blog-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-red"></a>&emsp;
-    <a href="https://photo.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/Photo-%E6%97%B6%E5%85%89%E7%9B%B8%E5%86%8C-blue"></a>&emsp;
-    <a href="https://cloud.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/Cloud%20Disk-%E6%88%91%E7%9A%84%E4%BA%91%E7%9B%98-green"></a>&emsp;
-    <a href="https://nz.lisir.me/" title="点击跳转"><img src="https://img.shields.io/badge/%E5%93%AA%E5%90%92-%E7%9B%91%E6%8E%A7%E9%9D%A2%E6%9D%BF-blueviolet"></a>&emsp;
+    <a href="https://lisir.cc/" title="点击跳转"><img src="https://img.shields.io/badge/Blog-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-red"></a>&emsp;
+    <a href="https://photo.lisir.cc/" title="点击跳转"><img src="https://img.shields.io/badge/Photo-%E6%97%B6%E5%85%89%E7%9B%B8%E5%86%8C-blue"></a>&emsp;
+    <a href="https://cloud.lisir.cc/" title="点击跳转"><img src="https://img.shields.io/badge/Cloud%20Disk-%E6%88%91%E7%9A%84%E4%BA%91%E7%9B%98-green"></a>&emsp;
+    <a href="https://nz.lisir.cc/" title="点击跳转"><img src="https://img.shields.io/badge/%E5%93%AA%E5%90%92-%E7%9B%91%E6%8E%A7%E9%9D%A2%E6%9D%BF-blueviolet"></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=wkwbk&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <a href="https://wakatime.com/@2237354f-824a-4472-ae76-c1eca96c8908"><img src="https://wakatime.com/badge/user/2237354f-824a-4472-ae76-c1eca96c8908.svg" alt="Total time coded since Apr 5 2023" /></a>
@@ -32,9 +32,9 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-  <img width="145" src="https://img.lisir.me/image/my/002.png">
+  <img width="145" src="https://img.lisir.cc/image/my/002.png">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkwbk&show_icons=true&theme=transparent">
-  <img width="145" src="https://img.lisir.me/image/my/001.png">
+  <img width="145" src="https://img.lisir.cc/image/my/001.png">
 </div>
 
 <br>
@@ -44,14 +44,14 @@
 <tr><td>
 
 <!-- 近期博客 -->
-## 📃 [Recent Blog](https://lisir.me/)
+## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Sep 17 - [二分查找](https://lisir.me/Notes/Job/算法题解/10.二分查找)
-- Sep 17 - [回溯](https://lisir.me/Notes/Job/算法题解/09.回溯)
-- Sep 14 - [图论](https://lisir.me/Notes/Job/算法题解/08.图论)
-- Sep 13 - [二叉树](https://lisir.me/Notes/Job/算法题解/07.二叉树)
-- Sep 11 - [链表](https://lisir.me/Notes/Job/算法题解/06.链表)
+- Sep 17 - [二分查找](https://lisir.cc/Notes/Job/算法题解/10.二分查找)
+- Sep 17 - [回溯](https://lisir.cc/Notes/Job/算法题解/09.回溯)
+- Sep 14 - [图论](https://lisir.cc/Notes/Job/算法题解/08.图论)
+- Sep 13 - [二叉树](https://lisir.cc/Notes/Job/算法题解/07.二叉树)
+- Sep 11 - [链表](https://lisir.cc/Notes/Job/算法题解/06.链表)
 <!-- feed end -->
 
 </td></tr>
