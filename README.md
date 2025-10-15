@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Oct 04 - [计算机二级 | MS Office](https://lisir.cc/Exam/NCRE/00.计算机二级-MS-Office)
-- Oct 04 - [虚拟机中搭建 Hadoop 集群](https://lisir.cc/Notes/DB/Hadoop/00.虚拟机中搭建-Hadoop-集群)
-- Oct 04 - [Java | 环境配置](https://lisir.cc/Notes/Lang/Java/第一阶段/00.Java-环境配置)
-- Oct 04 - [文案风格及排版指南](https://lisir.cc/Notes/Lang/Markdown/00.Markdown-入门教程)
-- Oct 04 - [文案风格及排版指南](https://lisir.cc/Notes/Lang/Markdown/01.文案风格及排版指南)
+- Oct 15 - [Ansible 基础](https://lisir.cc/Notes/DevOps/Ansible/00.Ansible-基础)
+- Oct 15 - [Ansible 剧本](https://lisir.cc/Notes/DevOps/Ansible/01.Ansible-剧本)
+- Oct 15 - [Ansible 进阶](https://lisir.cc/Notes/DevOps/Ansible/02.Ansible-进阶)
+- Oct 15 - [3. Ansible](https://lisir.cc/Notes/DevOps/Ansible/)
+- Oct 15 - [Docker 安装教程](https://lisir.cc/Notes/DevOps/Docker/00.Docker-安装教程)
 <!-- feed end -->
 
 </td></tr>
