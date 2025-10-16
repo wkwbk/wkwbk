@@ -62,11 +62,11 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/27041645/' target='_blank'>想读百万富翁快车道</a> - 2025-10-16
+* <a href='https://book.douban.com/subject/27153484/' target='_blank'>想读富爸爸穷爸爸</a> - 2025-10-16
 * <a href='https://movie.douban.com/subject/37067733/' target='_blank'>想看侠探杰克 第四季</a> - 2025-07-27
 * <a href='https://movie.douban.com/subject/35763119/' target='_blank'>想看侠探杰克 第二季</a> - 2025-07-27
 * <a href='https://movie.douban.com/subject/36670568/' target='_blank'>想看侠探杰克 第三季</a> - 2025-07-27
-* <a href='https://movie.douban.com/subject/30378897/' target='_blank'>想看侠探杰克 第一季</a> - 2025-07-27
-* <a href='https://book.douban.com/subject/1752349/' target='_blank'>想读胡雪岩（全三册）</a> - 2025-06-17
 <!-- END_SECTION:douban -->
 
 </td></tr>
