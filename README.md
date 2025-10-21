@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
+- Oct 21 - [开发提效工具](https://lisir.cc/Notes/Stack/05.开发提效工具)
 - Oct 19 - [交大创新港招聘会](https://lisir.cc/Notes/Job/投递记录/2025-10-19)
 - Oct 19 - [6. 投递记录](https://lisir.cc/Notes/Job/投递记录/)
 - Oct 15 - [Ansible 基础](https://lisir.cc/Notes/DevOps/Ansible/00.Ansible-基础)
 - Oct 15 - [Ansible 剧本](https://lisir.cc/Notes/DevOps/Ansible/01.Ansible-剧本)
-- Oct 15 - [Ansible 进阶](https://lisir.cc/Notes/DevOps/Ansible/02.Ansible-进阶)
 <!-- feed end -->
 
 </td></tr>
