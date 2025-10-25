@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
+- Oct 25 - [MySQL 面试题](https://lisir.cc/Notes/Job/面试题解/00.MySQL-面试题)
+- Oct 25 - [二分查找](https://lisir.cc/Notes/Job/算法题解/10.二分查找)
 - Oct 24 - [可视化建模与 UML](https://lisir.cc/Exam/XASYU/Second/2025-06-24/00.可视化建模与-UML)
 - Oct 24 - [Linux 操作系统](https://lisir.cc/Exam/XASYU/Second/2025-06-24/01.Linux-操作系统)
 - Oct 24 - [机器学习](https://lisir.cc/Exam/XASYU/Second/2025-06-25/00.机器学习)
-- Oct 24 - [大数据技术基础](https://lisir.cc/Exam/XASYU/Second/2025-06-27/00.大数据技术基础)
-- Oct 24 - [软件测试](https://lisir.cc/Exam/XASYU/Second/2025-06-27/01.软件测试)
 <!-- feed end -->
 
 </td></tr>
