@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Nov 02 - [分布式系统](https://lisir.cc/Notes/Stack/06.分布式系统)
-- Nov 02 - [LangChain4j](https://lisir.cc/Notes/Stack/07.LangChain4j)
-- Nov 02 - [2025-10-31](https://lisir.cc/Notes/Job/面试记录/2025-10-31)
-- Nov 02 - [7. 面试记录](https://lisir.cc/Notes/Job/面试记录/)
-- Oct 25 - [MySQL 面试题](https://lisir.cc/Notes/Job/面试题解/00.MySQL-面试题)
+- Nov 03 - [LangChain4j](https://lisir.cc/Stack/07.LangChain4j)
+- Nov 03 - [Caffeine](https://lisir.cc/Stack/08.Caffeine)
+- Nov 03 - [交大创新港招聘会](https://lisir.cc/Job/投递记录/2025-10-19)
+- Nov 03 - [6. 投递记录](https://lisir.cc/Job/投递记录/)
+- Nov 03 - [专业术语](https://lisir.cc/Job/求职扫盲/00.专业术语)
 <!-- feed end -->
 
 </td></tr>
