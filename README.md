@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Nov 03 - [LangChain4j](https://lisir.cc/Stack/07.LangChain4j)
+- Nov 04 - [LangChain4j](https://lisir.cc/Stack/07.LangChain4j)
 - Nov 03 - [Caffeine](https://lisir.cc/Stack/08.Caffeine)
 - Nov 03 - [交大创新港招聘会](https://lisir.cc/Job/投递记录/2025-10-19)
 - Nov 03 - [6. 投递记录](https://lisir.cc/Job/投递记录/)
