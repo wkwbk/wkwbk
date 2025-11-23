@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
+- Nov 23 - [Java | JUC](https://lisir.cc/Notes/Lang/Java/第三阶段/06.Java-JUC)
+- Nov 23 - [Java | JVM](https://lisir.cc/Notes/Lang/Java/第三阶段/07.Java-JVM)
 - Nov 07 - [RuoYi 脚手架](https://lisir.cc/Stack/09.RuoYi-脚手架)
 - Nov 05 - [日志记录](https://lisir.cc/Stack/10.日志记录)
 - Nov 04 - [LangChain4j](https://lisir.cc/Stack/07.LangChain4j)
-- Nov 03 - [Caffeine](https://lisir.cc/Stack/08.Caffeine)
-- Nov 03 - [交大创新港招聘会](https://lisir.cc/Job/投递记录/2025-10-19)
 <!-- feed end -->
 
 </td></tr>
