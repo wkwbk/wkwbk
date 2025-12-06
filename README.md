@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Dec 05 - [Java | JUC](https://lisir.cc/Notes/Lang/Java/第三阶段/06.Java-JUC)
+- Dec 06 - [Java | JUC](https://lisir.cc/Notes/Lang/Java/第三阶段/06.Java-JUC)
 - Nov 28 - [v2rayN 使用教程](https://lisir.cc/GFW/使用/00.v2rayN-使用教程)
 - Nov 23 - [Java | JVM](https://lisir.cc/Notes/Lang/Java/第三阶段/07.Java-JVM)
 - Nov 07 - [RuoYi 脚手架](https://lisir.cc/Stack/09.RuoYi-脚手架)
