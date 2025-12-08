@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
+- Dec 08 - [Java | JUC](https://lisir.cc/Notes/Lang/Java/第三阶段/06.Java-JUC)
+- Dec 08 - [踩坑记录](https://lisir.cc/Job/个人成长/踩坑记录)
+- Dec 08 - [8. 个人成长](https://lisir.cc/Job/个人成长/)
+- Dec 08 - [成功路上的七种心态](https://lisir.cc/Job/个人成长/成功路上的七种心态)
 - Dec 07 - [Java | 函数式编程](https://lisir.cc/Notes/Lang/Java/第三阶段/02.Java-函数式编程)
-- Dec 07 - [Java | JUC](https://lisir.cc/Notes/Lang/Java/第三阶段/06.Java-JUC)
-- Nov 28 - [v2rayN 使用教程](https://lisir.cc/GFW/使用/00.v2rayN-使用教程)
-- Nov 23 - [Java | JVM](https://lisir.cc/Notes/Lang/Java/第三阶段/07.Java-JVM)
-- Nov 07 - [RuoYi 脚手架](https://lisir.cc/Stack/09.RuoYi-脚手架)
 <!-- feed end -->
 
 </td></tr>
