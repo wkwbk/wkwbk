@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Dec 08 - [Java | JUC](https://lisir.cc/Notes/Lang/Java/第三阶段/06.Java-JUC)
+- Dec 09 - [Java | JUC](https://lisir.cc/Notes/Lang/Java/第三阶段/06.Java-JUC)
 - Dec 08 - [踩坑记录](https://lisir.cc/Job/个人成长/踩坑记录)
 - Dec 08 - [8. 个人成长](https://lisir.cc/Job/个人成长/)
 - Dec 08 - [成功路上的七种心态](https://lisir.cc/Job/个人成长/成功路上的七种心态)
