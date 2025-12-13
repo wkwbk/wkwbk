@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Dec 12 - [Java | JUC](https://lisir.cc/Notes/Lang/Java/第三阶段/06.Java-JUC)
+- Dec 13 - [Java | JUC](https://lisir.cc/Notes/Lang/Java/第三阶段/06.Java-JUC)
 - Dec 12 - [测试页](https://lisir.cc/test)
 - Dec 08 - [踩坑记录](https://lisir.cc/Job/个人成长/踩坑记录)
 - Dec 08 - [8. 个人成长](https://lisir.cc/Job/个人成长/)
