@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Dec 30 - [同步](https://lisir.cc/Notes/Lang/Java/并发编程/02.同步)
+- Jan 11 - [同步](https://lisir.cc/Notes/Lang/Java/并发编程/02.同步)
 - Dec 28 - [基本概念](https://lisir.cc/Notes/Lang/Java/并发编程/01.基本概念)
 - Dec 22 - [Markdown | 入门教程](https://lisir.cc/Notes/Lang/Markdown/00.Markdown-入门教程)
 - Dec 22 - [NIO](https://lisir.cc/Notes/Lang/Java/网络编程/04.NIO)
