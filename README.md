@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Jan 14 - [内存](https://lisir.cc/Notes/Lang/Java/并发编程/03.内存)
-- Jan 11 - [同步](https://lisir.cc/Notes/Lang/Java/并发编程/02.同步)
-- Dec 28 - [基本概念](https://lisir.cc/Notes/Lang/Java/并发编程/01.基本概念)
-- Dec 22 - [Markdown | 入门教程](https://lisir.cc/Notes/Lang/Markdown/00.Markdown-入门教程)
-- Dec 22 - [NIO](https://lisir.cc/Notes/Lang/Java/网络编程/04.NIO)
+- Jan 22 - [线程方法](https://lisir.cc/Notes/Lang/Java/并发编程/核心基础/03.线程方法)
+- Jan 19 - [内存模型](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/01.内存模型)
+- Jan 19 - [高速缓存](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/02.高速缓存)
+- Jan 19 - [同步机制](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/03.同步机制)
+- Jan 19 - [先行发生](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/04.先行发生)
 <!-- feed end -->
 
 </td></tr>
