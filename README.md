@@ -47,10 +47,10 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
+- Jan 25 - [同步机制](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/03.同步机制)
 - Jan 22 - [线程方法](https://lisir.cc/Notes/Lang/Java/并发编程/核心基础/03.线程方法)
 - Jan 19 - [内存模型](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/01.内存模型)
 - Jan 19 - [高速缓存](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/02.高速缓存)
-- Jan 19 - [同步机制](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/03.同步机制)
 - Jan 19 - [先行发生](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/04.先行发生)
 <!-- feed end -->
 
