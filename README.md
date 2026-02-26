@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Feb 19 - [人生待办清单](https://lisir.cc/Job/个人成长/人生待办清单)
+- Feb 26 - [人生待办清单](https://lisir.cc/Job/个人成长/人生待办清单)
 - Feb 19 - [云南旅游攻略](https://lisir.cc/Job/个人成长/旅游/云南旅游攻略)
 - Feb 19 - [新加坡旅游攻略](https://lisir.cc/Job/个人成长/旅游/新加坡旅游攻略)
 - Feb 19 - [香港旅游攻略](https://lisir.cc/Job/个人成长/旅游/香港旅游攻略)
