@@ -62,11 +62,11 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
+* <a href='https://movie.douban.com/subject/36131988/' target='_blank'>看过招魂4：终章</a> - 2026-03-28
+* <a href='https://movie.douban.com/subject/20644938/' target='_blank'>想看硅谷 第一季</a> - 2026-03-28
+* <a href='https://movie.douban.com/subject/35500137/' target='_blank'>想看串流先锋</a> - 2026-03-28
 * <a href='https://movie.douban.com/subject/27077479/' target='_blank'>看过招魂3</a> - 2026-03-21
 * <a href='https://movie.douban.com/subject/24860563/' target='_blank'>看过招魂2</a> - 2026-03-21
-* <a href='https://movie.douban.com/subject/35010610/' target='_blank'>想看挽救计划</a> - 2026-03-21
-* <a href='https://movie.douban.com/subject/3804629/' target='_blank'>看过招魂</a> - 2026-03-21
-* <a href='https://movie.douban.com/subject/37311135/' target='_blank'>想看飞驰人生3</a> - 2026-02-20
 <!-- END_SECTION:douban -->
 
 </td></tr>
