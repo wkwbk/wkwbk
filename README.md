@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
+- Apr 01 - [Markdown | 入门教程](https://lisir.cc/Notes/Lang/Markdown/00.Markdown-入门教程)
 - Mar 13 - [人生待办清单](https://lisir.cc/Job/个人成长/人生待办清单)
 - Feb 19 - [云南旅游攻略](https://lisir.cc/Job/个人成长/旅游/云南旅游攻略)
 - Feb 19 - [新加坡旅游攻略](https://lisir.cc/Job/个人成长/旅游/新加坡旅游攻略)
 - Feb 19 - [香港旅游攻略](https://lisir.cc/Job/个人成长/旅游/香港旅游攻略)
-- Jan 25 - [同步机制](https://lisir.cc/Notes/Lang/Java/并发编程/底层原理/03.同步机制)
 <!-- feed end -->
 
 </td></tr>
