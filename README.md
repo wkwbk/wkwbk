@@ -77,51 +77,8 @@
 ## 📊 [WakaTime](https://wakatime.com/@wkwbk)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2071 commits        ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-🌆 Daytime                2665 commits        █████████░░░░░░░░░░░░░░░░   36.08 % 
-🌃 Evening                2364 commits        ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌙 Night                  287 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1112 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Tuesday                  989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Wednesday                993 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Thursday                 969 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Friday                   975 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Saturday                 1110 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Sunday                   1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue                      8 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.53 % 
-Markdown                 6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Java                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-TypeScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Other                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-
-🔥 Editors: 
-Antigravity              20 hrs 3 mins       ███████████████████░░░░░░   77.35 % 
-Unknown Editor           5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-IntelliJ IDEA            29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-
-💻 Operating System: 
-Windows                  25 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/05/2026 22:46:29 UTC
+ Last Updated on 19/05/2026 22:57:05 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
