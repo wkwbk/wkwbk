@@ -77,8 +77,50 @@
 ## 📊 [WakaTime](https://wakatime.com/@wkwbk)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 28/05/2026 23:07:20 UTC
+```text
+🌞 Morning                2095 commits        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+🌆 Daytime                2721 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
+🌃 Evening                2452 commits        ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌙 Night                  360 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1112 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Tuesday                  1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Wednesday                1036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Thursday                 982 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Friday                   998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Saturday                 1146 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Sunday                   1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue                      17 hrs 25 mins      ███████████░░░░░░░░░░░░░░   43.11 % 
+Markdown                 7 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+CSS                      4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+TypeScript               3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Java                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+
+🔥 Editors: 
+Antigravity              38 hrs 19 mins      ████████████████████████░   94.82 % 
+IntelliJ IDEA            1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Claude Code              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+
+💻 Operating System: 
+Windows                  40 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/05/2026 23:02:50 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
