@@ -47,11 +47,11 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
+- Jun 06 - [科学上网基础与客户端推荐](https://lisir.cc/GFW/介绍/00.科学上网基础与客户端)
+- Jun 06 - [常见协议与技术对比](https://lisir.cc/GFW/介绍/01.常见协议与技术对比)
 - Jun 03 - [v2rayN&G 使用教程](https://lisir.cc/GFW/使用/00.v2rayN&G-使用教程)
 - Apr 01 - [Markdown | 入门教程](https://lisir.cc/Notes/Lang/Markdown/00.Markdown-入门教程)
 - Mar 13 - [人生待办清单](https://lisir.cc/Job/个人成长/人生待办清单)
-- Feb 19 - [云南旅游攻略](https://lisir.cc/Job/个人成长/旅游/云南旅游攻略)
-- Feb 19 - [新加坡旅游攻略](https://lisir.cc/Job/个人成长/旅游/新加坡旅游攻略)
 <!-- feed end -->
 
 </td></tr>
