@@ -47,7 +47,7 @@
 ## 📃 [Recent Blog](https://lisir.cc/)
 
 <!-- feed start -->
-- Jun 07 - [Word 中英文空格批量删除](https://lisir.cc/Notes/Tool/Office/00.Word中英文空格批量删除)
+- Jun 11 - [Word 中英文及符号空格批量删除](https://lisir.cc/Notes/Tool/Office/00.Word中英文空格批量删除)
 - Jun 07 - [5. Office](https://lisir.cc/Notes/Tool/Office/)
 - Jun 06 - [科学上网基础与客户端推荐](https://lisir.cc/GFW/介绍/00.科学上网基础与客户端)
 - Jun 06 - [常见协议与技术对比](https://lisir.cc/GFW/介绍/01.常见协议与技术对比)
