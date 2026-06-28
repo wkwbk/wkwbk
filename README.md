@@ -62,11 +62,11 @@
 ## 🤾 [Funny Soul](https://movie.douban.com/people/li778057151)
 
 <!-- START_SECTION:douban -->
+* <a href='https://movie.douban.com/subject/37335468/' target='_blank'>看过努力克服自卑的我们</a> 🌟🌟🌟🌟🌟 力荐- 2026-06-28
 * <a href='https://movie.douban.com/subject/37071123/' target='_blank'>看过铁拳教育</a> 🌟🌟🌟🌟🌟 力荐- 2026-06-21
 * <a href='https://movie.douban.com/subject/35758798/' target='_blank'>想看亢奋 第三季</a> - 2026-04-28
 * <a href='https://movie.douban.com/subject/30382501/' target='_blank'>想看浴血黑帮：不朽传奇</a> - 2026-04-01
 * <a href='https://movie.douban.com/subject/36131988/' target='_blank'>看过招魂4：终章</a> - 2026-03-28
-* <a href='https://movie.douban.com/subject/20644938/' target='_blank'>想看硅谷 第一季</a> - 2026-03-28
 <!-- END_SECTION:douban -->
 
 </td></tr>
