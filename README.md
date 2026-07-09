@@ -33,7 +33,7 @@
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
   <img width="145" src="https://img.lisir.cc/image/my/002.png">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkwbk&show_icons=true&theme=transparent">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=wkwbk&show_icons=true&include_all_commits=true&theme=transparent">
   <img width="145" src="https://img.lisir.cc/image/my/001.png">
 </div>
 
