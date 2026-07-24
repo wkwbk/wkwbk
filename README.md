@@ -104,22 +104,22 @@ Sunday                   808 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          ███████████████░░░░░░░░░░   60.75 % 
-GitIgnore file           13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Markdown                 47 mins             ██████████████░░░░░░░░░░░   54.28 % 
+GitIgnore file           13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 22 mins        ████████████████████░░░░░   81.69 % 
-IntelliJ IDEA            18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Antigravity IDE          1 hr 8 mins         ████████████████████░░░░░   78.67 % 
+IntelliJ IDEA            18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/07/2026 22:45:22 UTC
+ Last Updated on 24/07/2026 22:51:31 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
