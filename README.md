@@ -77,6 +77,8 @@
 ## 📊 [WakaTime](https://wakatime.com/@wkwbk)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2011%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -118,8 +120,30 @@ IntelliJ IDEA            18 mins             █████░░░░░░�
 Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 22:46:57 UTC
+```text
+⏱ AI Coding Time: 1 hr 6 mins (77.04%)
+
+✍️ 23 lines written by AI, 7 lines written by hand (76.67% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 14 AI Prompts
+
+Gemini                   25 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 76.67% of written lines came from AI
+📝 Concise Prompter — average 324 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 24.24% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 22:49:10 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
