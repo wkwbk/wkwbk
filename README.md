@@ -106,44 +106,25 @@ Sunday                   809 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 47 mins             ██████████████░░░░░░░░░░░   54.28 % 
-GitIgnore file           13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+GitIgnore file           13 mins             ████████████████████░░░░░   80.81 % 
+YAML                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 8 mins         ████████████████████░░░░░   78.67 % 
-IntelliJ IDEA            18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+IntelliJ IDEA            16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (77.04%)
-
-✍️ 23 lines written by AI, 7 lines written by hand (76.67% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 14 AI Prompts
-
-Gemini                   25 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 76.67% of written lines came from AI
-📝 Concise Prompter — average 324 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 24.24% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 22:49:10 UTC
+ Last Updated on 28/07/2026 22:49:21 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
