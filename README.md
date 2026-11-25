@@ -77,7 +77,7 @@
 ## 📊 [WakaTime](https://wakatime.com/@wkwbk)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -106,45 +106,46 @@ Sunday                   801 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      19 hrs 56 mins      ███████████░░░░░░░░░░░░░░   43.87 % 
-JavaScript               19 hrs 35 mins      ███████████░░░░░░░░░░░░░░   43.09 % 
-CSS                      2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Other                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-HTML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+JavaScript               22 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.41 % 
+Vue                      18 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.07 % 
+CSS                      1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Other                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Markdown                 52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-Antigravity IDE          23 hrs 47 mins      █████████████░░░░░░░░░░░░   52.34 % 
-Antigravity Desktop      21 hrs 23 mins      ████████████░░░░░░░░░░░░░   47.05 % 
-IntelliJ IDEA            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Antigravity IDE          24 hrs 57 mins      █████████████░░░░░░░░░░░░   52.19 % 
+Antigravity Desktop      22 hrs 35 mins      ████████████░░░░░░░░░░░░░   47.23 % 
+IntelliJ IDEA            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  45 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  47 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 50 mins (96.42%)
+⏱ AI Coding Time: 46 hrs 19 mins (96.86%)
 
-✍️ 0 lines written by AI, 708 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 709 lines written by hand (0.0% AI-written)
 
-🔤 4,099,304 Input Tokens, 188,665 Output Tokens
+🔤 4,087,364 Input Tokens, 215,614 Output Tokens
 
-💵 $11.85 Estimated AI Cost This Week
+💵 $10.77 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 845 AI Prompts
+🧠 95 AI Sessions, 877 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 48 characters per prompt
+📝 Concise Prompter — average 49 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/11/2026 05:39:55 UTC
+ Last Updated on 25/11/2026 04:40:33 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
